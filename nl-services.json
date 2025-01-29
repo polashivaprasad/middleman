@@ -1,0 +1,1726 @@
+{
+  "services": [
+    {
+      "category": "Apparaatreparatie",
+      "category_image_url": "/images/appliance-repair.jpg",
+      "subcategories": [
+        {
+          "name": "Airconditioner Reparatie",
+          "image_url": "/images/air-conditioner-repair.jpg"
+        },
+        {
+          "name": "Ketel Reparatie",
+          "image_url": "/images/Boiler-Repair.jpg"
+        },
+        {
+          "name": "Vaatwasser Reparatie",
+          "image_url": "/images/dishwasher-repair.jpg"
+        },
+        {
+          "name": "Droger Reparatie",
+          "image_url": "/images/dryer-repair.jpg"
+        },
+        {
+          "name": "Vriezer Reparatie",
+          "image_url": "/images/freezer-repair.jpg"
+        },
+        {
+          "name": "Vuilverwijderaar Reparatie",
+          "image_url": "/images/garbage-disposal-repair.jpg"
+        },
+        {
+          "name": "IJsblokjesmaker Reparatie",
+          "image_url": "/images/ice-maker-repair.jpg"
+        },
+        {
+          "name": "Magnetron Reparatie",
+          "image_url": "/images/microwave-repair.jpg"
+        },
+        {
+          "name": "Oven en Fornuis Reparatie",
+          "image_url": "/images/oven-stove-repair.jpg"
+        },
+        {
+          "name": "Afzuigkap Reparatie",
+          "image_url": "/images/range-hood-repair.jpg"
+        },
+        {
+          "name": "Koelkast Reparatie",
+          "image_url": "/images/refrigerator-repair.jpg"
+        },
+        {
+          "name": "Vuilnisvermaler Reparatie",
+          "image_url": "/images/trash-compactor-repair.jpg"
+        },
+        {
+          "name": "Ventilator Reparatie",
+          "image_url": "/images/vent-hood-repair.jpg"
+        },
+        {
+          "name": "Wasmachine Reparatie",
+          "image_url": "/images/washing-machine-repair.jpg"
+        },
+        {
+          "name": "Waterverwarmer Reparatie",
+          "image_url": "/images/water-heater-repair.jpg"
+        },
+        {
+          "name": "Wijnkoeler Reparatie",
+          "image_url": "/images/wine-cooler-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Kunst & Creatieve Diensten",
+      "category_image_url": "/images/Art-Creative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Content Schrijven & Copywriting",
+          "image_url": "/images/content-writing-copywriting.jpg"
+        },
+        {
+          "name": "Aangepaste Illustraties & Schilderijen",
+          "image_url": "/images/custom-illustrations-paintings.jpg"
+        },
+        {
+          "name": "Grafisch Ontwerp & Branding",
+          "image_url": "/images/graphic-design-branding.jpg"
+        },
+        {
+          "name": "Handgemaakte Ambachten & Aangepaste Geschenken",
+          "image_url": "/images/handmade-crafts-custom-gifts.jpg"
+        },
+        {
+          "name": "Podcast & Video Bewerking Diensten",
+          "image_url": "/images/podcast-video-editing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Auto & Voertuig Diensten",
+      "category_image_url": "/images/auto-vehicle-services.jpg",
+      "subcategories": [
+        {
+          "name": "Accu Vervanging",
+          "image_url": "/images/battery-replacement.jpg"
+        },
+        {
+          "name": "Boot Schoonmaakdiensten",
+          "image_url": "/images/boat-cleaning-services.jpg"
+        },
+        {
+          "name": "Auto Detailing",
+          "image_url": "/images/car-detailing.jpg"
+        },
+        {
+          "name": "E-Bike Reparatie",
+          "image_url": "/images/e-bike-repair.jpg"
+        },
+        {
+          "name": "Banden Vervanging",
+          "image_url": "/images/tire-replacement.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Automotive Diensten",
+      "category_image_url": "/images/Automotive-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Fiets Reparatie",
+          "image_url": "/images/bicycle-repair.jpg"
+        },
+        {
+          "name": "Auto Verhuur & Leasing",
+          "image_url": "/images/car-rental-leasing.jpg"
+        },
+        {
+          "name": "Auto Was & Detailing",
+          "image_url": "/images/car-wash-detailing.jpg"
+        },
+        {
+          "name": "Noodhulp langs de weg",
+          "image_url": "/images/emergency-roadside-assistance.jpg"
+        },
+        {
+          "name": "Kleine Reparaties & Onderhoud",
+          "image_url": "/images/minor-repairs-maintenance.jpg"
+        },
+        {
+          "name": "Voertuig Inspectie & Registratie",
+          "image_url": "/images/vehicle-inspection-registration.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zakelijke Diensten",
+      "category_image_url": "/images/business-services.jpg",
+      "subcategories": [
+        {
+          "name": "Commerciële Schoonmaak",
+          "image_url": "/images/commercial-cleaning.jpg"
+        },
+        {
+          "name": "Schoonmaakdiensten",
+          "image_url": "/images"
+        },
+        {
+          "name": "Kantoor Schoonmaak",
+          "image_url": "/images/office-cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Kinderopvang & Gezinsdiensten",
+      "category_image_url": "/images/Childcare-Family-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Oppas & Nanny Diensten",
+          "image_url": "/images/babysitting-nanny-services.jpg"
+        },
+        {
+          "name": "Noodopvang",
+          "image_url": "/images/emergency-childcare.jpg"
+        },
+        {
+          "name": "Oudercoaching & Pasgeboren Ondersteuning",
+          "image_url": "/images/parent-coaching-newborn-support.jpg"
+        },
+        {
+          "name": "Kinderopvang voor Speciale Behoeften",
+          "image_url": "/images/special-needs-childcare.jpg"
+        },
+        {
+          "name": "Bijles voor Kinderen",
+          "image_url": "/images/tutoring-for-kids.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Onderwijs & Bijles",
+      "category_image_url": "/images/Education-Tutoring.jpg",
+      "subcategories": [
+        {
+          "name": "Academische Bijles",
+          "image_url": "/images/academic-tutoring.jpg"
+        },
+        {
+          "name": "Codering & IT Training",
+          "image_url": "/images/coding-it-training.jpg"
+        },
+        {
+          "name": "Taalcursussen",
+          "image_url": "/images/language-classes.jpg"
+        },
+        {
+          "name": "Muzieklessen",
+          "image_url": "/images/music-lessons.jpg"
+        },
+        {
+          "name": "Ondersteuning voor Speciaal Onderwijs",
+          "image_url": "/images/special-education-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Evenement & Entertainment",
+      "category_image_url": "/images/event-entertainment.jpg",
+      "subcategories": [
+        {
+          "name": "Catering",
+          "image_url": "/images/catering.jpg"
+        },
+        {
+          "name": "Decoratiediensten",
+          "image_url": "/images/decoration-services.jpg"
+        },
+        {
+          "name": "DJ Diensten",
+          "image_url": "/images/dj-services.jpg"
+        },
+        {
+          "name": "Drone Fotografie",
+          "image_url": "/images/drone-photography.jpg"
+        },
+        {
+          "name": "Evenement Planning",
+          "image_url": "/images/event-planning.jpg"
+        },
+        {
+          "name": "Fotografie",
+          "image_url": "/images/photography.jpg"
+        },
+        {
+          "name": "Videografie",
+          "image_url": "/images/videography.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Fitness & Training",
+      "category_image_url": "/images/Fitness-Training.jpg",
+      "subcategories": [
+        {
+          "name": "Groepsfitnesslessen",
+          "image_url": "/images/group-fitness-classes.jpg"
+        },
+        {
+          "name": "Voedingscoaching",
+          "image_url": "/images/nutrition-coaching.jpg"
+        },
+        {
+          "name": "Buiten Boot Camps",
+          "image_url": "/images/outdoor-boot-camps.jpg"
+        },
+        {
+          "name": "Persoonlijke Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Virtuele Fitnesscoaching",
+          "image_url": "/images/virtual-fitness-coaching.jpg"
+        },
+        {
+          "name": "Yoga & Pilates Sessies",
+          "image_url": "/images/yoga-pilates-sessions.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Voedsel & Boodschappenbezorging",
+      "category_image_url": "/images/Food-Grocery-Delivery.jpg",
+      "subcategories": [
+        {
+          "name": "Alcohol Bezorging",
+          "image_url": "/images/alcohol-delivery.jpg"
+        },
+        {
+          "name": "Bakkerij & Gebak Bezorging",
+          "image_url": "/images/bakery-pastry-delivery.jpg"
+        },
+        {
+          "name": "Lokale Boerderij & Verse Producten Bezorging",
+          "image_url": "/images/local-farm-fresh-produce-delivery.jpg"
+        },
+        {
+          "name": "Maaltijdpakketten & Bereide Maaltijden",
+          "image_url": "/images/meal-kits-prepared-meals.jpg"
+        },
+        {
+          "name": "Speciale Dieet Bezorging (Veganistisch, Glutenvrij)",
+          "image_url": "/images/specialty-diet-delivery.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Overheids- & Administratieve Diensten",
+      "category_image_url": "/images/Government-Administrative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Bedrijfsregistratie & Licenties",
+          "image_url": "/images/business-registration-licensing.jpg"
+        },
+        {
+          "name": "EU Subsidie & Financieringsadvies",
+          "image_url": "/images/eu-grant-funding-consulting.jpg"
+        },
+        {
+          "name": "Notarisdiensten",
+          "image_url": "/images/notary-public-services.jpg"
+        },
+        {
+          "name": "Vertaling & Documentcertificering",
+          "image_url": "/images/translation-document-certification.jpg"
+        },
+        {
+          "name": "Visum & Immigratieadvies",
+          "image_url": "/images/visa-immigration-consulting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Klusjesman & Reparaties",
+      "category_image_url": "/images/handyman-repairs.jpg",
+      "subcategories": [
+        {
+          "name": "Gordijn- en Jaloezieën Installatie",
+          "image_url": "/images/curtain-blind-installation.jpg"
+        },
+        {
+          "name": "Meubelmontage",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "Kleine Muurreparaties",
+          "image_url": "/images/small-wall-repairs.jpg"
+        },
+        {
+          "name": "TV Montage",
+          "image_url": "/images/tv-mounting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Gezondheidszorg & Wellness",
+      "category_image_url": "/images/Healthcare-Wellness.jpg",
+      "subcategories": [
+        {
+          "name": "Alternatieve Therapie (Acupunctuur, Homeopathie)",
+          "image_url": "/images/alternative-therapy.jpg"
+        },
+        {
+          "name": "Thuisfysiotherapie",
+          "image_url": "/images/at-home-physiotherapy.jpg"
+        },
+        {
+          "name": "Ouderenzorg & Mobiliteitshulp",
+          "image_url": "/images/elderly-care-mobility-assistance.jpg"
+        },
+        {
+          "name": "Thuisverpleging & Medische Ondersteuning",
+          "image_url": "/images/home-nursing-medical-support.jpg"
+        },
+        {
+          "name": "Massagetherapie",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Geestelijke Gezondheidszorg",
+          "image_url": "/images/mental-health-counseling.jpg"
+        },
+        {
+          "name": "Revalidatiediensten",
+          "image_url": "/images/rehabilitation-services.jpg"
+        },
+        {
+          "name": "Telehealth Consultaties",
+          "image_url": "/images/telehealth-consultations.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Huishoudelijke Schoonmaak & Onderhoud",
+      "image_url": "/images/Home Cleaning & Maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Badkamer Schoonmaak",
+          "image_url": "/images/Bathroom Cleaning.jpg"
+        },
+        {
+          "name": "Tapijt & Meubelreiniging",
+          "image_url": "/images/Carpet & Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Tapijtreiniging",
+          "image_url": "/images/Carpet Cleaning.jpg"
+        },
+        {
+          "name": "Schoorsteenreiniging",
+          "image_url": "/images/Chimney Cleaning.jpg"
+        },
+        {
+          "name": "Schoorsteenvegen",
+          "image_url": "/images/Chimney Sweeping.jpg"
+        },
+        {
+          "name": "Dieptereiniging",
+          "image_url": "/images/Deep Cleaning.jpg"
+        },
+        {
+          "name": "Desinfectiediensten",
+          "image_url": "/images/Disinfection Services.jpg"
+        },
+        {
+          "name": "Milieuvriendelijke Schoonmaak",
+          "image_url": "/images/Eco-Friendly Cleaning.jpg"
+        },
+        {
+          "name": "Algemene Schoonmaak",
+          "image_url": "/images/General Cleaning.jpg"
+        },
+        {
+          "name": "Dakgootreiniging",
+          "image_url": "/images/Gutter Cleaning.jpg"
+        },
+        {
+          "name": "Keuken Schoonmaak",
+          "image_url": "/images/Kitchen Cleaning.jpg"
+        },
+        {
+          "name": "Wassen & Strijken",
+          "image_url": "/images/Laundry & Ironing.jpg"
+        },
+        {
+          "name": "Woonkamer/Slaapkamer Schoonmaak",
+          "image_url": "/images/Living Room_Bedroom Cleaning.jpg"
+        },
+        {
+          "name": "Verhuis Schoonmaak",
+          "image_url": "/images/Move-In_Move-Out Cleaning.jpg"
+        },
+        {
+          "name": "Hogedrukreiniging",
+          "image_url": "/images/Pressure Washing.jpg"
+        },
+        {
+          "name": "Reguliere Huishoudelijke Schoonmaak",
+          "image_url": "/images/Regular House Cleaning.jpg"
+        },
+        {
+          "name": "Meubelreiniging",
+          "image_url": "/images/Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Kledingkast Organisatie",
+          "image_url": "/images/Wardrobe Organization.jpg"
+        },
+        {
+          "name": "Ramen Schoonmaak",
+          "image_url": "/images/Window Cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Woningverbetering & Ontwerp",
+      "category_image_url": "/images/Home-Improvement-Design.jpg",
+      "subcategories": [
+        {
+          "name": "Aangepaste Timmerwerk & Houtbewerking",
+          "image_url": "/images/custom-carpentry-woodworking.jpg"
+        },
+        {
+          "name": "Meubelmontage & Installatie",
+          "image_url": "/images/furniture-assembly-installation.jpg"
+        },
+        {
+          "name": "Thuis Kantoor Ontwerp & Organisatie",
+          "image_url": "/images/home-office-design-organization.jpg"
+        },
+        {
+          "name": "Woningrenovatie Planning",
+          "image_url": "/images/home-renovation-planning.jpg"
+        },
+        {
+          "name": "Interieurontwerp Consultaties",
+          "image_url": "/images/interior-design-consultations.jpg"
+        },
+        {
+          "name": "Slimme Huis Installatie & Setup",
+          "image_url": "/images/smart-home-setup-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Huisbeveiliging",
+      "category_image_url": "/images/home-security.jpg",
+      "subcategories": [
+        {
+          "name": "Alarmsysteem Installatie",
+          "image_url": "/images/alarm-system-installation.jpg"
+        },
+        {
+          "name": "Alarmsysteem Onderhoud",
+          "image_url": "/images/alarm-system-maintenance.jpg"
+        },
+        {
+          "name": "Alarmsysteem Reparatie",
+          "image_url": "/images/alarm-system-repair.jpg"
+        },
+        {
+          "name": "Deursensor Installatie",
+          "image_url": "/images/door-sensor-installation.jpg"
+        },
+        {
+          "name": "Deursensor Onderhoud",
+          "image_url": "/images/door-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Deursensor Reparatie",
+          "image_url": "/images/door-sensor-repair.jpg"
+        },
+        {
+          "name": "Intercomsysteem Installatie",
+          "image_url": "/images/intercom-system-installation.jpg"
+        },
+        {
+          "name": "Intercomsysteem Onderhoud",
+          "image_url": "/images/intercom-system-maintenance.jpg"
+        },
+        {
+          "name": "Intercomsysteem Reparatie",
+          "image_url": "/images/intercom-system-repair.jpg"
+        },
+        {
+          "name": "Bewegingssensor Installatie",
+          "image_url": "/images/motion-sensor-installation.jpg"
+        },
+        {
+          "name": "Bewegingssensor Onderhoud",
+          "image_url": "/images/motion-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Bewegingssensor Reparatie",
+          "image_url": "/images/motion-sensor-repair.jpg"
+        },
+        {
+          "name": "Beveiligingscamera Installatie",
+          "image_url": "/images/security-camera-installation.jpg"
+        },
+        {
+          "name": "Beveiligingscamera Onderhoud",
+          "image_url": "/images/security-camera-maintenance.jpg"
+        },
+        {
+          "name": "Beveiligingscamera Reparatie",
+          "image_url": "/images/security-camera-repair.jpg"
+        },
+        {
+          "name": "Beveiligingssysteem Onderhoud",
+          "image_url": "/images/security-system-maintenance.jpg"
+        },
+        {
+          "name": "Beveiligingssysteem Reparatie",
+          "image_url": "/images/security-system-repair.jpg"
+        },
+        {
+          "name": "Slim Slot Installatie",
+          "image_url": "/images/smart-lock-installation.jpg"
+        },
+        {
+          "name": "Slim Slot Onderhoud",
+          "image_url": "/images/smart-lock-maintenance.jpg"
+        },
+        {
+          "name": "Slim Slot Reparatie",
+          "image_url": "/images/smart-lock-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "HVAC & Onderhoud",
+      "category_image_url": "/images/hvac-maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Airconditioning Installatie",
+          "image_url": "/images/air-conditioning-installation.jpg"
+        },
+        {
+          "name": "Luchtreiniger Installatie",
+          "image_url": "/images/air-purifier-installation.jpg"
+        },
+        {
+          "name": "Luchtkwaliteit Testen",
+          "image_url": "/images/air-quality-testing.jpg"
+        },
+        {
+          "name": "Ketel Onderhoud",
+          "image_url": "/images/boiler-maintenance.jpg"
+        },
+        {
+          "name": "Ontvochtiger Installatie",
+          "image_url": "/images/dehumidifier-installation.jpg"
+        },
+        {
+          "name": "Kanaalreiniging",
+          "image_url": "/images/duct-cleaning.jpg"
+        },
+        {
+          "name": "Kanaalreparatie",
+          "image_url": "/images/duct-repair.jpg"
+        },
+        {
+          "name": "Verwarming Installatie",
+          "image_url": "/images/furnace-installation.jpg"
+        },
+        {
+          "name": "Verwarming Reparatie",
+          "image_url": "/images/furnace-repair.jpg"
+        },
+        {
+          "name": "Warmtepomp Installatie",
+          "image_url": "/images/heat-pump-installation.jpg"
+        },
+        {
+          "name": "Warmtepomp Reparatie",
+          "image_url": "/images/heat-pump-repair.jpg"
+        },
+        {
+          "name": "Bevochtiger Installatie",
+          "image_url": "/images/humidifier-installation.jpg"
+        },
+        {
+          "name": "HVAC Onderhoud",
+          "image_url": "/images/hvac-maintenance.jpg"
+        },
+        {
+          "name": "HVAC Reparatie",
+          "image_url": "/images/hvac-repair.jpg"
+        },
+        {
+          "name": "Thermostaat Installatie",
+          "image_url": "/images/thermostat-installation.jpg"
+        },
+        {
+          "name": "Thermostaat Reparatie",
+          "image_url": "/images/thermostat-repair.jpg"
+        },
+        {
+          "name": "Ventilatie Installatie",
+          "image_url": "/images/ventilation-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Juridische & Financiële Diensten",
+      "category_image_url": "/images/Legal-Financial-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Boekhouding & Belastingaangifte",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "EU Compliance & GDPR Advies",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "HR & Wervingsdiensten",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Juridische Consultaties",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Marketing & Branding Diensten",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "CV Schrijven & Loopbaancoaching",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Logistiek & Verhuizen",
+      "category_image_url": "/images/Logistics-Moving.jpg",
+      "subcategories": [
+        {
+          "name": "Meubelmontage",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "Internationaal Verhuizen & Relocatie",
+          "image_url": "/images/international-moving-relocation.jpg"
+        },
+        {
+          "name": "Inpak- & Uitpakdiensten",
+          "image_url": "/images/packing-unpacking-services.jpg"
+        },
+        {
+          "name": "Korte Termijn Opslagoplossingen",
+          "image_url": "/images/short-term-storage-solutions.jpg"
+        },
+        {
+          "name": "Voertuigverhuur (Bussen, Vrachtwagens)",
+          "image_url": "/images/vehicle-rental-vans-trucks.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Verhuizen & Relocatie",
+      "category_image_url": "/images/moving-relocation.jpg",
+      "subcategories": [
+        {
+          "name": "Koeriersdiensten",
+          "image_url": "/images/courier-services.jpg"
+        },
+        {
+          "name": "Meubelbezorging",
+          "image_url": "/images/furniture-delivery.jpg"
+        },
+        {
+          "name": "Internationaal Verhuizen",
+          "image_url": "/images/international-moving.jpg"
+        },
+        {
+          "name": "Lokaal Verhuizen",
+          "image_url": "/images/local-moving.jpg"
+        },
+        {
+          "name": "Lange Afstand Verhuizen",
+          "image_url": "/images/long-distance-moving.jpg"
+        },
+        {
+          "name": "Inpakdiensten",
+          "image_url": "/images/packing-services.jpg"
+        },
+        {
+          "name": "Kleine Lading Transport",
+          "image_url": "/images/small-load-transport.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Buiten & Tuinieren",
+      "category_image_url": "/images/outdoor-gardening.jpg",
+      "subcategories": [
+        {
+          "name": "Terras Reparatie",
+          "image_url": "/images/deck-repair.jpg"
+        },
+        {
+          "name": "Hek Installatie",
+          "image_url": "/images/fence-installation.jpg"
+        },
+        {
+          "name": "Tuinonderhoud",
+          "image_url": "/images/garden-maintenance.jpg"
+        },
+        {
+          "name": "Heg Snoeien",
+          "image_url": "/images/hedge-trimming.jpg"
+        },
+        {
+          "name": "Irrigatiesysteem Installatie",
+          "image_url": "/images/irrigation-system-installation.jpg"
+        },
+        {
+          "name": "Grasmaaien",
+          "image_url": "/images/lawn-mowing.jpg"
+        },
+        {
+          "name": "Buitenverlichting Installatie",
+          "image_url": "/images/outdoor-lighting-installation.jpg"
+        },
+        {
+          "name": "Boom Snoeien",
+          "image_url": "/images/tree-pruning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Schilderen & Renovatie",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Badkamer Renovatie",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Terras en Patio Bouw",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Buiten Schilderen",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Binnen Schilderen",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Keuken Renovatie",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Ongediertebestrijding",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Mierenbestrijding",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bedwantsen Behandeling",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bij Bestrijding",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Kevers Bestrijding",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Duizendpoot Bestrijding",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Kakkerlakken Bestrijding",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Oorworm Bestrijding",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Vlooien Bestrijding",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Vliegen Bestrijding",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Miljoenpoot Bestrijding",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Muggen Bestrijding",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Motten Bestrijding",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Knaagdieren Bestrijding",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zilvervisjes Bestrijding",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spinnen Bestrijding",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termieten Bestrijding",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wespen Bestrijding",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Snuitkever Bestrijding",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Persoonlijk & Lifestyle",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Oppas",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Bruidsmake-up",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Dementiezorg",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Hondenuitlaatservice",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Haarstyling",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Massagetherapie",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Maaltijdvoorbereiding",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Mobiliteitshulp",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Nagelverzorging",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Nanny Diensten",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Persoonlijke Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Huisdierverzorging",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Huisdieroppas",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Fysiotherapie",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Bijles",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Dierenartsbezoeken",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Yoga Instructie",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Persoonlijke Verzorging & Schoonheid",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "Thuis Spa & Wellness Behandelingen",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Kapsels & Styling",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Make-up Kunst",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure & Pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Huidverzorgingsbehandelingen",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Tattoo & Piercing Diensten",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Huisdierverzorging",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Hondenuitlaatservice",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Verzorging (Bad, Nagels Knippen)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Huisdieroppas",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Huisdiertraining (Gehoorzaamheid, Gedrag)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Huisdiervervoer",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Dierenarts Thuisbezoeken",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Schilderen & Renovatie",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Badkamer Renovatie",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Terras en Patio Bouw",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Buiten Schilderen",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Binnen Schilderen",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Keuken Renovatie",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Ongediertebestrijding",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Mierenbestrijding",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bedwantsen Behandeling",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bij Bestrijding",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Kevers Bestrijding",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Duizendpoot Bestrijding",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Kakkerlakken Bestrijding",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Oorworm Bestrijding",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Vlooien Bestrijding",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Vliegen Bestrijding",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Miljoenpoot Bestrijding",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Muggen Bestrijding",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Motten Bestrijding",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Knaagdieren Bestrijding",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zilvervisjes Bestrijding",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spinnen Bestrijding",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termieten Bestrijding",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wespen Bestrijding",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Snuitkever Bestrijding",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Persoonlijk & Lifestyle",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Oppas",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Bruidsmake-up",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Dementiezorg",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Hondenuitlaatservice",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Haarstyling",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Massagetherapie",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Maaltijdvoorbereiding",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Mobiliteitshulp",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Nagelverzorging",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Nanny Diensten",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Persoonlijke Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Huisdierverzorging",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Huisdieroppas",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Fysiotherapie",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Bijles",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Dierenartsbezoeken",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Yoga Instructie",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Persoonlijke Verzorging & Schoonheid",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "Thuis Spa & Wellness Behandelingen",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Kapsels & Styling",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Make-up Kunst",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure & Pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Huidverzorgingsbehandelingen",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Tattoo & Piercing Diensten",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Huisdierverzorging",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Hondenuitlaatservice",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Verzorging (Bad, Nagels Knippen)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Huisdieroppas",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Huisdiertraining (Gehoorzaamheid, Gedrag)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Huisdiervervoer",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Dierenarts Thuisbezoeken",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Schilderen & Renovatie",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Badkamer Renovatie",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Terras en Patio Bouw",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Buiten Schilderen",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Binnen Schilderen",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Keuken Renovatie",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Ongediertebestrijding",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Mierenbestrijding",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bedwantsen Behandeling",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bij Bestrijding",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Kevers Bestrijding",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Duizendpoot Bestrijding",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Kakkerlakken Bestrijding",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Oorworm Bestrijding",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Vlooien Bestrijding",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Vliegen Bestrijding",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Miljoenpoot Bestrijding",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Muggen Bestrijding",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Motten Bestrijding",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Knaagdieren Bestrijding",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zilvervisjes Bestrijding",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spinnen Bestrijding",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termieten Bestrijding",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wespen Bestrijding",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Snuitkever Bestrijding",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Loodgieterij & Elektrisch",
+      "category_image_url": "/images/plumbing-electrical.jpg",
+      "subcategories": [
+        {
+          "name": "Vervanging van Zekeringen",
+          "image_url": "/images/circuit-breaker-replacement.jpg"
+        },
+        {
+          "name": "Rioolreiniging",
+          "image_url": "/images/drain-cleaning.jpg"
+        },
+        {
+          "name": "Elektrische Bedrading",
+          "image_url": "/images/electrical-wiring.jpg"
+        },
+        {
+          "name": "Kraan- en Gootsteenreparatie",
+          "image_url": "/images/faucet-sink-repair.jpg"
+        },
+        {
+          "name": "Thuisautomatisering Setup",
+          "image_url": "/images/home-automation-setup.jpg"
+        },
+        {
+          "name": "Lekdetectie en Reparatie",
+          "image_url": "/images/leak-detection-repair.jpg"
+        },
+        {
+          "name": "Verlichting Installatie",
+          "image_url": "/images/lighting-installation.jpg"
+        },
+        {
+          "name": "Radiator Installatie",
+          "image_url": "/images/radiator-installation.jpg"
+        },
+        {
+          "name": "Zonnepaneel Setup",
+          "image_url": "/images/solar-panel-setup.jpg"
+        },
+        {
+          "name": "Toilet Reparatie en Installatie",
+          "image_url": "/images/toilet-repair-installation.jpg"
+        },
+        {
+          "name": "Waterverwarmer Reparatie",
+          "image_url": "/images/water-heater-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Professionele & Zakelijke Diensten",
+      "category_image_url": "/images/Professional-Business-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Boekhouding & Belastingaangifte",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "EU Compliance & GDPR Advies",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "HR & Wervingsdiensten",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Juridische Consultaties",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Marketing & Branding Diensten",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "CV Schrijven & Loopbaancoaching",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Vastgoed & Vastgoedbeheer",
+      "category_image_url": "/images/Real-Estate-Property-Management.jpg",
+      "subcategories": [
+        {
+          "name": "Airbnb & Korte Termijn Verhuurbeheer",
+          "image_url": "/images/airbnb-short-term-rental-management.jpg"
+        },
+        {
+          "name": "Woninginspectie Diensten",
+          "image_url": "/images/home-inspection-services.jpg"
+        },
+        {
+          "name": "Vastgoedvermelding & Staging",
+          "image_url": "/images/property-listing-staging.jpg"
+        },
+        {
+          "name": "Verhuurbeheer",
+          "image_url": "/images/rental-property-management.jpg"
+        },
+        {
+          "name": "Huurder Screening & Juridische Ondersteuning",
+          "image_url": "/images/tenant-screening-legal-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Ouderenzorg & Assistentie",
+      "category_image_url": "/images/Senior-Care-Assistance.jpg",
+      "subcategories": [
+        {
+          "name": "Gezelschapsdiensten",
+          "image_url": "/images/companionship-services.jpg"
+        },
+        {
+          "name": "Thuiszorg voor Ouderen",
+          "image_url": "/images/in-home-elderly-care.jpg"
+        },
+        {
+          "name": "Maaltijdvoorbereiding & Voedingshulp",
+          "image_url": "/images/meal-preparation-feeding-assistance.jpg"
+        },
+        {
+          "name": "Medicatiebeheer",
+          "image_url": "/images/medication-management.jpg"
+        },
+        {
+          "name": "Vervoershulp",
+          "image_url": "/images/transportation-assistance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Gespecialiseerde & Nooddiensten",
+      "category_image_url": "/images/specialized-emergency-services.jpg",
+      "subcategories": [
+        {
+          "name": "Ketel Reparatie",
+          "image_url": "/images/boiler-repair.jpg"
+        },
+        {
+          "name": "Elektrische Noodgevallen",
+          "image_url": "/images/electrical-emergencies.jpg"
+        },
+        {
+          "name": "Gaslek Reparatie",
+          "image_url": "/images/gas-leak-repair.jpg"
+        },
+        {
+          "name": "Woning Staging",
+          "image_url": "/images/home-staging.jpg"
+        },
+        {
+          "name": "Afvalverwijdering",
+          "image_url": "/images/junk-hauling.jpg"
+        },
+        {
+          "name": "Vastgoedbeheer",
+          "image_url": "/images/property-management.jpg"
+        },
+        {
+          "name": "Sneeuwruimen",
+          "image_url": "/images/snow-removal.jpg"
+        },
+        {
+          "name": "Vakantieverhuur Schoonmaak",
+          "image_url": "/images/vacation-rental-cleaning.jpg"
+        },
+        {
+          "name": "Afvalverwijdering",
+          "image_url": "/images/waste-removal.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Duurzaamheid & Groene Diensten",
+      "category_image_url": "/images/Sustainability-Green-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Milieuvriendelijke Productbezorging",
+          "image_url": "/images/eco-friendly-product-delivery.jpg"
+        },
+        {
+          "name": "Energie-efficiëntie Audits",
+          "image_url": "/images/energy-efficiency-audits.jpg"
+        },
+        {
+          "name": "Zonnepaneel Installatie",
+          "image_url": "/images/solar-panel-installation.jpg"
+        },
+        {
+          "name": "Upcycling & Hergebruik Diensten",
+          "image_url": "/images/upcycling-repurposing-services.jpg"
+        },
+        {
+          "name": "Afval Recycling Consultaties",
+          "image_url": "/images/waste-recycling-consultations.jpg"
+        },
+        {
+          "name": "Zero-Waste Leven Consultatie",
+          "image_url": "/images/zero-waste-living-consultation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Tech & IT Diensten",
+      "category_image_url": "/images/tech-it-services.jpg",
+      "subcategories": [
+        {
+          "name": "Computer Reparatie",
+          "image_url": "/images/computer-repair.jpg"
+        },
+        {
+          "name": "Gegevensherstel",
+          "image_url": "/images/data-recovery.jpg"
+        },
+        {
+          "name": "Thuisautomatisering",
+          "image_url": "/images/home-automation.jpg"
+        },
+        {
+          "name": "Netwerk Setup",
+          "image_url": "/images/network-setup.jpg"
+        },
+        {
+          "name": "Beveiligingscamera Setup",
+          "image_url": "/images/security-camera-setup.jpg"
+        },
+        {
+          "name": "Slim Slot Installatie",
+          "image_url": "/images/smart-lock-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Reis- & Toerismediensten",
+      "category_image_url": "/images/Travel-Tourism-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Luchthaven Pickup & Transport",
+          "image_url": "/images/airport-pickup-transport.jpg"
+        },
+        {
+          "name": "Lokale Gidsen",
+          "image_url": "/images/local-tour-guides.jpg"
+        },
+        {
+          "name": "Reisplanning & Reisroute Creatie",
+          "image_url": "/images/travel-planning-itinerary-creation.jpg"
+        },
+        {
+          "name": "Vakantiehuis Onderhoud",
+          "image_url": "/images/vacation-home-maintenance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Reizen & Vervoer",
+      "category_image_url": "/images/Travel-Transportation.jpg",
+      "subcategories": [
+        {
+          "name": "Luchthaven Transfers",
+          "image_url": "https://example"
+        },
+        {
+          "name": "Fiets- & Scooterverhuur",
+          "image_url": "/images/bicycle-scooter-rentals.jpg"
+        },
+        {
+          "name": "Boot- & Jachtcharter",
+          "image_url": "/images/boat-yacht-charter.jpg"
+        },
+        {
+          "name": "Autoverhuur Diensten",
+          "image_url": "/images/car-rental-services.jpg"
+        },
+        {
+          "name": "Helikopter Tours & Charters",
+          "image_url": "/images/helicopter-tours-charters.jpg"
+        },
+        {
+          "name": "Limousinediensten",
+          "image_url": "/images/limousine-services.jpg"
+        },
+        {
+          "name": "Luxe Autoverhuur",
+          "image_url": "/images/luxury-car-rentals.jpg"
+        },
+        {
+          "name": "Motorfietsverhuur",
+          "image_url": "/images/motorcycle-rentals.jpg"
+        },
+        {
+          "name": "Huisdiervervoer Diensten",
+          "image_url": "/images/pet-transportation-services.jpg"
+        },
+        {
+          "name": "Privé Chauffeur Huren",
+          "image_url": "/images/private-driver-hire.jpg"
+        },
+        {
+          "name": "Privé Jet Charters",
+          "image_url": "/images/private-jet-charters.jpg"
+        },
+        {
+          "name": "RV & Camper Van Verhuur",
+          "image_url": "/images/rv-camper-van-rentals.jpg"
+        },
+        {
+          "name": "Gidsen & Excursies",
+          "image_url": "/images/tour-guides-excursions.jpg"
+        },
+        {
+          "name": "Reisverzekering",
+          "image_url": "/images/travel-insurance.jpg"
+        },
+        {
+          "name": "Reisplanning & Reisroute Diensten",
+          "image_url": "/images/travel-planning-itinerary-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Virtuele Assistentie & Ondersteuning voor Thuiswerken",
+      "category_image_url": "/images/Virtual-Assistance-Remote-Work-Support.jpg",
+      "subcategories": [
+        {
+          "name": "Gegevensinvoer & Documentvoorbereiding",
+          "image_url": "/images/data-entry-document-preparation.jpg"
+        },
+        {
+          "name": "E-commerce Winkelbeheer",
+          "image_url": "/images/ecommerce-store-management.jpg"
+        },
+        {
+          "name": "Ondersteuning voor Thuiswerken",
+          "image_url": "/images/remote-business-admin-support.jpg"
+        },
+        {
+          "name": "Virtuele Assistenten",
+          "image_url": "/images/virtual-assistants.jpg"
+        }
+      ]
+    }
+  ]
+}

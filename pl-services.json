@@ -1,0 +1,1726 @@
+{
+  "services": [
+    {
+      "category": "Naprawa urządzeń",
+      "category_image_url": "/images/appliance-repair.jpg",
+      "subcategories": [
+        {
+          "name": "Naprawa klimatyzacji",
+          "image_url": "/images/air-conditioner-repair.jpg"
+        },
+        {
+          "name": "Naprawa kotłów",
+          "image_url": "/images/Boiler-Repair.jpg"
+        },
+        {
+          "name": "Naprawa zmywarek",
+          "image_url": "/images/dishwasher-repair.jpg"
+        },
+        {
+          "name": "Naprawa suszarek",
+          "image_url": "/images/dryer-repair.jpg"
+        },
+        {
+          "name": "Naprawa zamrażarek",
+          "image_url": "/images/freezer-repair.jpg"
+        },
+        {
+          "name": "Naprawa rozdrabniaczy odpadów",
+          "image_url": "/images/garbage-disposal-repair.jpg"
+        },
+        {
+          "name": "Naprawa kostkarek",
+          "image_url": "/images/ice-maker-repair.jpg"
+        },
+        {
+          "name": "Naprawa mikrofalówek",
+          "image_url": "/images/microwave-repair.jpg"
+        },
+        {
+          "name": "Naprawa piekarników i kuchenek",
+          "image_url": "/images/oven-stove-repair.jpg"
+        },
+        {
+          "name": "Naprawa okapów kuchennych",
+          "image_url": "/images/range-hood-repair.jpg"
+        },
+        {
+          "name": "Naprawa lodówek",
+          "image_url": "/images/refrigerator-repair.jpg"
+        },
+        {
+          "name": "Naprawa kompaktorów odpadów",
+          "image_url": "/images/trash-compactor-repair.jpg"
+        },
+        {
+          "name": "Naprawa okapów wentylacyjnych",
+          "image_url": "/images/vent-hood-repair.jpg"
+        },
+        {
+          "name": "Naprawa pralek",
+          "image_url": "/images/washing-machine-repair.jpg"
+        },
+        {
+          "name": "Naprawa podgrzewaczy wody",
+          "image_url": "/images/water-heater-repair.jpg"
+        },
+        {
+          "name": "Naprawa chłodziarek do wina",
+          "image_url": "/images/wine-cooler-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi artystyczne i kreatywne",
+      "category_image_url": "/images/Art-Creative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Pisanie treści i copywriting",
+          "image_url": "/images/content-writing-copywriting.jpg"
+        },
+        {
+          "name": "Ilustracje i obrazy na zamówienie",
+          "image_url": "/images/custom-illustrations-paintings.jpg"
+        },
+        {
+          "name": "Projektowanie graficzne i branding",
+          "image_url": "/images/graphic-design-branding.jpg"
+        },
+        {
+          "name": "Rękodzieło i prezenty na zamówienie",
+          "image_url": "/images/handmade-crafts-custom-gifts.jpg"
+        },
+        {
+          "name": "Usługi edycji podcastów i wideo",
+          "image_url": "/images/podcast-video-editing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi motoryzacyjne",
+      "category_image_url": "/images/auto-vehicle-services.jpg",
+      "subcategories": [
+        {
+          "name": "Wymiana akumulatora",
+          "image_url": "/images/battery-replacement.jpg"
+        },
+        {
+          "name": "Usługi czyszczenia łodzi",
+          "image_url": "/images/boat-cleaning-services.jpg"
+        },
+        {
+          "name": "Detailing samochodowy",
+          "image_url": "/images/car-detailing.jpg"
+        },
+        {
+          "name": "Naprawa rowerów elektrycznych",
+          "image_url": "/images/e-bike-repair.jpg"
+        },
+        {
+          "name": "Wymiana opon",
+          "image_url": "/images/tire-replacement.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi samochodowe",
+      "category_image_url": "/images/Automotive-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Naprawa rowerów",
+          "image_url": "/images/bicycle-repair.jpg"
+        },
+        {
+          "name": "Wynajem i leasing samochodów",
+          "image_url": "/images/car-rental-leasing.jpg"
+        },
+        {
+          "name": "Mycie i detailing samochodowy",
+          "image_url": "/images/car-wash-detailing.jpg"
+        },
+        {
+          "name": "Pomoc drogowa",
+          "image_url": "/images/emergency-roadside-assistance.jpg"
+        },
+        {
+          "name": "Drobne naprawy i konserwacja",
+          "image_url": "/images/minor-repairs-maintenance.jpg"
+        },
+        {
+          "name": "Inspekcja i rejestracja pojazdów",
+          "image_url": "/images/vehicle-inspection-registration.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi biznesowe",
+      "category_image_url": "/images/business-services.jpg",
+      "subcategories": [
+        {
+          "name": "Sprzątanie komercyjne",
+          "image_url": "/images/commercial-cleaning.jpg"
+        },
+        {
+          "name": "Usługi porządkowe",
+          "image_url": "/images"
+        },
+        {
+          "name": "Sprzątanie biur",
+          "image_url": "/images/office-cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Opieka nad dziećmi i rodziną",
+      "category_image_url": "/images/Childcare-Family-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Opieka nad dziećmi i nianie",
+          "image_url": "/images/babysitting-nanny-services.jpg"
+        },
+        {
+          "name": "Opieka nad dziećmi w nagłych wypadkach",
+          "image_url": "/images/emergency-childcare.jpg"
+        },
+        {
+          "name": "Coaching rodzicielski i wsparcie dla noworodków",
+          "image_url": "/images/parent-coaching-newborn-support.jpg"
+        },
+        {
+          "name": "Opieka nad dziećmi ze specjalnymi potrzebami",
+          "image_url": "/images/special-needs-childcare.jpg"
+        },
+        {
+          "name": "Korepetycje dla dzieci",
+          "image_url": "/images/tutoring-for-kids.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Edukacja i korepetycje",
+      "category_image_url": "/images/Education-Tutoring.jpg",
+      "subcategories": [
+        {
+          "name": "Korepetycje akademickie",
+          "image_url": "/images/academic-tutoring.jpg"
+        },
+        {
+          "name": "Szkolenia z kodowania i IT",
+          "image_url": "/images/coding-it-training.jpg"
+        },
+        {
+          "name": "Lekcje języków obcych",
+          "image_url": "/images/language-classes.jpg"
+        },
+        {
+          "name": "Lekcje muzyki",
+          "image_url": "/images/music-lessons.jpg"
+        },
+        {
+          "name": "Wsparcie w edukacji specjalnej",
+          "image_url": "/images/special-education-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Wydarzenia i rozrywka",
+      "category_image_url": "/images/event-entertainment.jpg",
+      "subcategories": [
+        {
+          "name": "Catering",
+          "image_url": "/images/catering.jpg"
+        },
+        {
+          "name": "Usługi dekoracyjne",
+          "image_url": "/images/decoration-services.jpg"
+        },
+        {
+          "name": "Usługi DJ",
+          "image_url": "/images/dj-services.jpg"
+        },
+        {
+          "name": "Fotografia dronowa",
+          "image_url": "/images/drone-photography.jpg"
+        },
+        {
+          "name": "Planowanie wydarzeń",
+          "image_url": "/images/event-planning.jpg"
+        },
+        {
+          "name": "Fotografia",
+          "image_url": "/images/photography.jpg"
+        },
+        {
+          "name": "Wideografia",
+          "image_url": "/images/videography.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Fitness i trening",
+      "category_image_url": "/images/Fitness-Training.jpg",
+      "subcategories": [
+        {
+          "name": "Zajęcia fitness w grupie",
+          "image_url": "/images/group-fitness-classes.jpg"
+        },
+        {
+          "name": "Coaching żywieniowy",
+          "image_url": "/images/nutrition-coaching.jpg"
+        },
+        {
+          "name": "Obozy treningowe na świeżym powietrzu",
+          "image_url": "/images/outdoor-boot-camps.jpg"
+        },
+        {
+          "name": "Trening personalny",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Wirtualny coaching fitness",
+          "image_url": "/images/virtual-fitness-coaching.jpg"
+        },
+        {
+          "name": "Sesje jogi i pilatesu",
+          "image_url": "/images/yoga-pilates-sessions.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Dostawa jedzenia i artykułów spożywczych",
+      "category_image_url": "/images/Food-Grocery-Delivery.jpg",
+      "subcategories": [
+        {
+          "name": "Dostawa alkoholu",
+          "image_url": "/images/alcohol-delivery.jpg"
+        },
+        {
+          "name": "Dostawa pieczywa i wypieków",
+          "image_url": "/images/bakery-pastry-delivery.jpg"
+        },
+        {
+          "name": "Dostawa lokalnych produktów rolnych",
+          "image_url": "/images/local-farm-fresh-produce-delivery.jpg"
+        },
+        {
+          "name": "Zestawy posiłków i gotowe posiłki",
+          "image_url": "/images/meal-kits-prepared-meals.jpg"
+        },
+        {
+          "name": "Dostawa specjalnych diet (wegańska, bezglutenowa)",
+          "image_url": "/images/specialty-diet-delivery.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi rządowe i administracyjne",
+      "category_image_url": "/images/Government-Administrative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Rejestracja i licencjonowanie działalności gospodarczej",
+          "image_url": "/images/business-registration-licensing.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące dotacji i finansowania z UE",
+          "image_url": "/images/eu-grant-funding-consulting.jpg"
+        },
+        {
+          "name": "Usługi notarialne",
+          "image_url": "/images/notary-public-services.jpg"
+        },
+        {
+          "name": "Tłumaczenia i certyfikacja dokumentów",
+          "image_url": "/images/translation-document-certification.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące wiz i imigracji",
+          "image_url": "/images/visa-immigration-consulting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Złota rączka i naprawy",
+      "category_image_url": "/images/handyman-repairs.jpg",
+      "subcategories": [
+        {
+          "name": "Montaż zasłon i rolet",
+          "image_url": "/images/curtain-blind-installation.jpg"
+        },
+        {
+          "name": "Montaż mebli",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "Małe naprawy ścian",
+          "image_url": "/images/small-wall-repairs.jpg"
+        },
+        {
+          "name": "Montaż telewizorów",
+          "image_url": "/images/tv-mounting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Opieka zdrowotna i wellness",
+      "category_image_url": "/images/Healthcare-Wellness.jpg",
+      "subcategories": [
+        {
+          "name": "Terapie alternatywne (akupunktura, homeopatia)",
+          "image_url": "/images/alternative-therapy.jpg"
+        },
+        {
+          "name": "Fizjoterapia w domu",
+          "image_url": "/images/at-home-physiotherapy.jpg"
+        },
+        {
+          "name": "Opieka nad seniorami i pomoc w poruszaniu się",
+          "image_url": "/images/elderly-care-mobility-assistance.jpg"
+        },
+        {
+          "name": "Opieka pielęgniarska i wsparcie medyczne w domu",
+          "image_url": "/images/home-nursing-medical-support.jpg"
+        },
+        {
+          "name": "Terapia masażu",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Konsultacje zdrowia psychicznego",
+          "image_url": "/images/mental-health-counseling.jpg"
+        },
+        {
+          "name": "Usługi rehabilitacyjne",
+          "image_url": "/images/rehabilitation-services.jpg"
+        },
+        {
+          "name": "Konsultacje telemedyczne",
+          "image_url": "/images/telehealth-consultations.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Sprzątanie i konserwacja domu",
+      "category_image_url": "/images/Home Cleaning & Maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Sprzątanie łazienki",
+          "image_url": "/images/Bathroom Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie dywanów i tapicerki",
+          "image_url": "/images/Carpet & Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie dywanów",
+          "image_url": "/images/Carpet Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie kominów",
+          "image_url": "/images/Chimney Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie kominów",
+          "image_url": "/images/Chimney Sweeping.jpg"
+        },
+        {
+          "name": "Głębokie sprzątanie",
+          "image_url": "/images/Deep Cleaning.jpg"
+        },
+        {
+          "name": "Usługi dezynfekcji",
+          "image_url": "/images/Disinfection Services.jpg"
+        },
+        {
+          "name": "Ekologiczne sprzątanie",
+          "image_url": "/images/Eco-Friendly Cleaning.jpg"
+        },
+        {
+          "name": "Ogólne sprzątanie",
+          "image_url": "/images/General Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie rynien",
+          "image_url": "/images/Gutter Cleaning.jpg"
+        },
+        {
+          "name": "Sprzątanie kuchni",
+          "image_url": "/images/Kitchen Cleaning.jpg"
+        },
+        {
+          "name": "Pranie i prasowanie",
+          "image_url": "/images/Laundry & Ironing.jpg"
+        },
+        {
+          "name": "Sprzątanie salonu/sypialni",
+          "image_url": "/images/Living Room_Bedroom Cleaning.jpg"
+        },
+        {
+          "name": "Sprzątanie przy przeprowadzce",
+          "image_url": "/images/Move-In_Move-Out Cleaning.jpg"
+        },
+        {
+          "name": "Mycie ciśnieniowe",
+          "image_url": "/images/Pressure Washing.jpg"
+        },
+        {
+          "name": "Regularne sprzątanie domu",
+          "image_url": "/images/Regular House Cleaning.jpg"
+        },
+        {
+          "name": "Czyszczenie tapicerki",
+          "image_url": "/images/Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Organizacja garderoby",
+          "image_url": "/images/Wardrobe Organization.jpg"
+        },
+        {
+          "name": "Mycie okien",
+          "image_url": "/images/Window Cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Remonty i projektowanie wnętrz",
+      "category_image_url": "/images/Home-Improvement-Design.jpg",
+      "subcategories": [
+        {
+          "name": "Stolarstwo i obróbka drewna na zamówienie",
+          "image_url": "/images/custom-carpentry-woodworking.jpg"
+        },
+        {
+          "name": "Montaż i instalacja mebli",
+          "image_url": "/images/furniture-assembly-installation.jpg"
+        },
+        {
+          "name": "Projektowanie i organizacja biura domowego",
+          "image_url": "/images/home-office-design-organization.jpg"
+        },
+        {
+          "name": "Planowanie remontów domowych",
+          "image_url": "/images/home-renovation-planning.jpg"
+        },
+        {
+          "name": "Konsultacje projektowania wnętrz",
+          "image_url": "/images/interior-design-consultations.jpg"
+        },
+        {
+          "name": "Instalacja i konfiguracja inteligentnego domu",
+          "image_url": "/images/smart-home-setup-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Bezpieczeństwo domowe",
+      "category_image_url": "/images/home-security.jpg",
+      "subcategories": [
+        {
+          "name": "Instalacja systemu alarmowego",
+          "image_url": "/images/alarm-system-installation.jpg"
+        },
+        {
+          "name": "Konserwacja systemu alarmowego",
+          "image_url": "/images/alarm-system-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa systemu alarmowego",
+          "image_url": "/images/alarm-system-repair.jpg"
+        },
+        {
+          "name": "Instalacja czujników drzwiowych",
+          "image_url": "/images/door-sensor-installation.jpg"
+        },
+        {
+          "name": "Konserwacja czujników drzwiowych",
+          "image_url": "/images/door-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa czujników drzwiowych",
+          "image_url": "/images/door-sensor-repair.jpg"
+        },
+        {
+          "name": "Instalacja systemu domofonowego",
+          "image_url": "/images/intercom-system-installation.jpg"
+        },
+        {
+          "name": "Konserwacja systemu domofonowego",
+          "image_url": "/images/intercom-system-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa systemu domofonowego",
+          "image_url": "/images/intercom-system-repair.jpg"
+        },
+        {
+          "name": "Instalacja czujników ruchu",
+          "image_url": "/images/motion-sensor-installation.jpg"
+        },
+        {
+          "name": "Konserwacja czujników ruchu",
+          "image_url": "/images/motion-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa czujników ruchu",
+          "image_url": "/images/motion-sensor-repair.jpg"
+        },
+        {
+          "name": "Instalacja kamer bezpieczeństwa",
+          "image_url": "/images/security-camera-installation.jpg"
+        },
+        {
+          "name": "Konserwacja kamer bezpieczeństwa",
+          "image_url": "/images/security-camera-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa kamer bezpieczeństwa",
+          "image_url": "/images/security-camera-repair.jpg"
+        },
+        {
+          "name": "Konserwacja systemu bezpieczeństwa",
+          "image_url": "/images/security-system-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa systemu bezpieczeństwa",
+          "image_url": "/images/security-system-repair.jpg"
+        },
+        {
+          "name": "Instalacja inteligentnych zamków",
+          "image_url": "/images/smart-lock-installation.jpg"
+        },
+        {
+          "name": "Konserwacja inteligentnych zamków",
+          "image_url": "/images/smart-lock-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa inteligentnych zamków",
+          "image_url": "/images/smart-lock-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "HVAC i konserwacja",
+      "category_image_url": "/images/hvac-maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Instalacja klimatyzacji",
+          "image_url": "/images/air-conditioning-installation.jpg"
+        },
+        {
+          "name": "Instalacja oczyszczaczy powietrza",
+          "image_url": "/images/air-purifier-installation.jpg"
+        },
+        {
+          "name": "Testowanie jakości powietrza",
+          "image_url": "/images/air-quality-testing.jpg"
+        },
+        {
+          "name": "Konserwacja kotłów",
+          "image_url": "/images/boiler-maintenance.jpg"
+        },
+        {
+          "name": "Instalacja osuszaczy",
+          "image_url": "/images/dehumidifier-installation.jpg"
+        },
+        {
+          "name": "Czyszczenie przewodów",
+          "image_url": "/images/duct-cleaning.jpg"
+        },
+        {
+          "name": "Naprawa przewodów",
+          "image_url": "/images/duct-repair.jpg"
+        },
+        {
+          "name": "Instalacja pieców",
+          "image_url": "/images/furnace-installation.jpg"
+        },
+        {
+          "name": "Naprawa pieców",
+          "image_url": "/images/furnace-repair.jpg"
+        },
+        {
+          "name": "Instalacja pomp ciepła",
+          "image_url": "/images/heat-pump-installation.jpg"
+        },
+        {
+          "name": "Naprawa pomp ciepła",
+          "image_url": "/images/heat-pump-repair.jpg"
+        },
+        {
+          "name": "Instalacja nawilżaczy",
+          "image_url": "/images/humidifier-installation.jpg"
+        },
+        {
+          "name": "Konserwacja HVAC",
+          "image_url": "/images/hvac-maintenance.jpg"
+        },
+        {
+          "name": "Naprawa HVAC",
+          "image_url": "/images/hvac-repair.jpg"
+        },
+        {
+          "name": "Instalacja termostatów",
+          "image_url": "/images/thermostat-installation.jpg"
+        },
+        {
+          "name": "Naprawa termostatów",
+          "image_url": "/images/thermostat-repair.jpg"
+        },
+        {
+          "name": "Instalacja wentylacji",
+          "image_url": "/images/ventilation-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi prawne i finansowe",
+      "category_image_url": "/images/Legal-Financial-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Księgowość i składanie zeznań podatkowych",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące zgodności z UE i RODO",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "Usługi HR i rekrutacyjne",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Konsultacje prawne",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Usługi marketingowe i brandingowe",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "Pisanie CV i coaching kariery",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Logistyka i przeprowadzki",
+      "category_image_url": "/images/Logistics-Moving.jpg",
+      "subcategories": [
+        {
+          "name": "Montaż mebli",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "Międzynarodowe przeprowadzki i relokacja",
+          "image_url": "/images/international-moving-relocation.jpg"
+        },
+        {
+          "name": "Usługi pakowania i rozpakowywania",
+          "image_url": "/images/packing-unpacking-services.jpg"
+        },
+        {
+          "name": "Krótkoterminowe rozwiązania magazynowe",
+          "image_url": "/images/short-term-storage-solutions.jpg"
+        },
+        {
+          "name": "Wynajem pojazdów (furgonetki, ciężarówki)",
+          "image_url": "/images/vehicle-rental-vans-trucks.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Przeprowadzki i relokacja",
+      "category_image_url": "/images/moving-relocation.jpg",
+      "subcategories": [
+        {
+          "name": "Usługi kurierskie",
+          "image_url": "/images/courier-services.jpg"
+        },
+        {
+          "name": "Dostawa mebli",
+          "image_url": "/images/furniture-delivery.jpg"
+        },
+        {
+          "name": "Międzynarodowe przeprowadzki",
+          "image_url": "/images/international-moving.jpg"
+        },
+        {
+          "name": "Lokalne przeprowadzki",
+          "image_url": "/images/local-moving.jpg"
+        },
+        {
+          "name": "Przeprowadzki na długie dystanse",
+          "image_url": "/images/long-distance-moving.jpg"
+        },
+        {
+          "name": "Usługi pakowania",
+          "image_url": "/images/packing-services.jpg"
+        },
+        {
+          "name": "Transport małych ładunków",
+          "image_url": "/images/small-load-transport.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Prace na zewnątrz i ogrodnictwo",
+      "category_image_url": "/images/outdoor-gardening.jpg",
+      "subcategories": [
+        {
+          "name": "Naprawa tarasów",
+          "image_url": "/images/deck-repair.jpg"
+        },
+        {
+          "name": "Montaż ogrodzeń",
+          "image_url": "/images/fence-installation.jpg"
+        },
+        {
+          "name": "Konserwacja ogrodu",
+          "image_url": "/images/garden-maintenance.jpg"
+        },
+        {
+          "name": "Przycinanie żywopłotów",
+          "image_url": "/images/hedge-trimming.jpg"
+        },
+        {
+          "name": "Instalacja systemów nawadniających",
+          "image_url": "/images/irrigation-system-installation.jpg"
+        },
+        {
+          "name": "Koszenie trawnika",
+          "image_url": "/images/lawn-mowing.jpg"
+        },
+        {
+          "name": "Instalacja oświetlenia zewnętrznego",
+          "image_url": "/images/outdoor-lighting-installation.jpg"
+        },
+        {
+          "name": "Przycinanie drzew",
+          "image_url": "/images/tree-pruning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Malowanie i remonty",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Remont łazienki",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Budowa tarasów i patio",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Malowanie zewnętrzne",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Malowanie wnętrz",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Remont kuchni",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zwalczanie szkodników",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Zwalczanie mrówek",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Leczenie pluskiew",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Zwalczanie pszczół",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Zwalczanie chrząszczy",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Zwalczanie stonóg",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie karaluchów",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Zwalczanie skorków",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pcheł",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Zwalczanie much",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wijów",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie komarów",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Zwalczanie moli",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Zwalczanie gryzoni",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zwalczanie rybików",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pająków",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Zwalczanie termitów",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Zwalczanie os",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wołków",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Styl życia i usługi osobiste",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Opieka nad dziećmi",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Makijaż ślubny",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Opieka nad osobami z demencją",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Wyprowadzanie psów",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Stylizacja włosów",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Terapia masażu",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Przygotowywanie posiłków",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Pomoc w poruszaniu się",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Pielęgnacja paznokci",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Usługi niani",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Trening personalny",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Pielęgnacja zwierząt",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Opieka nad zwierzętami",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Fizjoterapia",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Korepetycje",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Wizyty weterynaryjne",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Instrukcja jogi",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pielęgnacja osobista i uroda",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "Zabiegi spa i wellness w domu",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Strzyżenie i stylizacja włosów",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Makijaż artystyczny",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure i pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Zabiegi pielęgnacyjne skóry",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Usługi tatuażu i piercingu",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Opieka nad zwierzętami",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Wyprowadzanie psów",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Pielęgnacja (kąpiel, przycinanie paznokci)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Opieka nad zwierzętami",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Szkolenie zwierząt (posłuszeństwo, zachowanie)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Transport zwierząt",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Wizyty weterynaryjne w domu",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Malowanie i remonty",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Remont łazienki",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Budowa tarasów i patio",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Malowanie zewnętrzne",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Malowanie wnętrz",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Remont kuchni",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zwalczanie szkodników",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Zwalczanie mrówek",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Leczenie pluskiew",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Zwalczanie pszczół",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Zwalczanie chrząszczy",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Zwalczanie stonóg",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie karaluchów",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Zwalczanie skorków",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pcheł",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Zwalczanie much",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wijów",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie komarów",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Zwalczanie moli",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Zwalczanie gryzoni",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zwalczanie rybików",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pająków",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Zwalczanie termitów",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Zwalczanie os",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wołków",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Styl życia i usługi osobiste",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Opieka nad dziećmi",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Makijaż ślubny",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Opieka nad osobami z demencją",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Wyprowadzanie psów",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Stylizacja włosów",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Terapia masażu",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Przygotowywanie posiłków",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Pomoc w poruszaniu się",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Pielęgnacja paznokci",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Usługi niani",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Trening personalny",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Pielęgnacja zwierząt",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Opieka nad zwierzętami",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Fizjoterapia",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Korepetycje",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Wizyty weterynaryjne",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Instrukcja jogi",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pielęgnacja osobista i uroda",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "Zabiegi spa i wellness w domu",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Strzyżenie i stylizacja włosów",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Makijaż artystyczny",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure i pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Zabiegi pielęgnacyjne skóry",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Usługi tatuażu i piercingu",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Opieka nad zwierzętami",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Wyprowadzanie psów",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Pielęgnacja (kąpiel, przycinanie paznokci)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Opieka nad zwierzętami",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Szkolenie zwierząt (posłuszeństwo, zachowanie)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Transport zwierząt",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Wizyty weterynaryjne w domu",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Malowanie i remonty",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Remont łazienki",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Budowa tarasów i patio",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Malowanie zewnętrzne",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Malowanie wnętrz",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Remont kuchni",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zwalczanie szkodników",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Zwalczanie mrówek",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Leczenie pluskiew",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Zwalczanie pszczół",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Zwalczanie chrząszczy",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Zwalczanie stonóg",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie karaluchów",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Zwalczanie skorków",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pcheł",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Zwalczanie much",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wijów",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Zwalczanie komarów",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Zwalczanie moli",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Zwalczanie gryzoni",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Zwalczanie rybików",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Zwalczanie pająków",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Zwalczanie termitów",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Zwalczanie os",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Zwalczanie wołków",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi hydrauliczne i elektryczne",
+      "category_image_url": "/images/plumbing-electrical.jpg",
+      "subcategories": [
+        {
+          "name": "Wymiana wyłącznika",
+          "image_url": "/images/circuit-breaker-replacement.jpg"
+        },
+        {
+          "name": "Czyszczenie odpływów",
+          "image_url": "/images/drain-cleaning.jpg"
+        },
+        {
+          "name": "Instalacja elektryczna",
+          "image_url": "/images/electrical-wiring.jpg"
+        },
+        {
+          "name": "Naprawa kranów i zlewów",
+          "image_url": "/images/faucet-sink-repair.jpg"
+        },
+        {
+          "name": "Konfiguracja automatyki domowej",
+          "image_url": "/images/home-automation-setup.jpg"
+        },
+        {
+          "name": "Wykrywanie i naprawa wycieków",
+          "image_url": "/images/leak-detection-repair.jpg"
+        },
+        {
+          "name": "Instalacja oświetlenia",
+          "image_url": "/images/lighting-installation.jpg"
+        },
+        {
+          "name": "Instalacja grzejników",
+          "image_url": "/images/radiator-installation.jpg"
+        },
+        {
+          "name": "Instalacja paneli słonecznych",
+          "image_url": "/images/solar-panel-setup.jpg"
+        },
+        {
+          "name": "Naprawa i instalacja toalet",
+          "image_url": "/images/toilet-repair-installation.jpg"
+        },
+        {
+          "name": "Naprawa podgrzewaczy wody",
+          "image_url": "/images/water-heater-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi profesjonalne i biznesowe",
+      "category_image_url": "/images/Professional-Business-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Księgowość i składanie zeznań podatkowych",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące zgodności z UE i RODO",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "Usługi HR i rekrutacyjne",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Konsultacje prawne",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Usługi marketingowe i brandingowe",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "Pisanie CV i coaching kariery",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zarządzanie nieruchomościami",
+      "category_image_url": "/images/Real-Estate-Property-Management.jpg",
+      "subcategories": [
+        {
+          "name": "Zarządzanie wynajmem krótkoterminowym",
+          "image_url": "/images/airbnb-short-term-rental-management.jpg"
+        },
+        {
+          "name": "Usługi inspekcji domów",
+          "image_url": "/images/home-inspection-services.jpg"
+        },
+        {
+          "name": "Wystawianie i inscenizacja nieruchomości",
+          "image_url": "/images/property-listing-staging.jpg"
+        },
+        {
+          "name": "Zarządzanie wynajmem",
+          "image_url": "/images/rental-property-management.jpg"
+        },
+        {
+          "name": "Weryfikacja najemców i wsparcie prawne",
+          "image_url": "/images/tenant-screening-legal-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Opieka nad seniorami i pomoc",
+      "category_image_url": "/images/Senior-Care-Assistance.jpg",
+      "subcategories": [
+        {
+          "name": "Usługi towarzyszące",
+          "image_url": "/images/companionship-services.jpg"
+        },
+        {
+          "name": "Opieka nad seniorami w domu",
+          "image_url": "/images/in-home-elderly-care.jpg"
+        },
+        {
+          "name": "Przygotowywanie posiłków i pomoc w karmieniu",
+          "image_url": "/images/meal-preparation-feeding-assistance.jpg"
+        },
+        {
+          "name": "Zarządzanie lekami",
+          "image_url": "/images/medication-management.jpg"
+        },
+        {
+          "name": "Pomoc w transporcie",
+          "image_url": "/images/transportation-assistance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi specjalistyczne i awaryjne",
+      "category_image_url": "/images/specialized-emergency-services.jpg",
+      "subcategories": [
+        {
+          "name": "Naprawa kotłów",
+          "image_url": "/images/boiler-repair.jpg"
+        },
+        {
+          "name": "Nagłe przypadki elektryczne",
+          "image_url": "/images/electrical-emergencies.jpg"
+        },
+        {
+          "name": "Naprawa wycieków gazu",
+          "image_url": "/images/gas-leak-repair.jpg"
+        },
+        {
+          "name": "Inscenizacja domów",
+          "image_url": "/images/home-staging.jpg"
+        },
+        {
+          "name": "Wywóz śmieci",
+          "image_url": "/images/junk-hauling.jpg"
+        },
+        {
+          "name": "Zarządzanie nieruchomościami",
+          "image_url": "/images/property-management.jpg"
+        },
+        {
+          "name": "Odśnieżanie",
+          "image_url": "/images/snow-removal.jpg"
+        },
+        {
+          "name": "Sprzątanie wynajmu wakacyjnego",
+          "image_url": "/images/vacation-rental-cleaning.jpg"
+        },
+        {
+          "name": "Usuwanie odpadów",
+          "image_url": "/images/waste-removal.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Zrównoważone i ekologiczne usługi",
+      "category_image_url": "/images/Sustainability-Green-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Dostawa ekologicznych produktów",
+          "image_url": "/images/eco-friendly-product-delivery.jpg"
+        },
+        {
+          "name": "Audyt efektywności energetycznej",
+          "image_url": "/images/energy-efficiency-audits.jpg"
+        },
+        {
+          "name": "Instalacja paneli słonecznych",
+          "image_url": "/images/solar-panel-installation.jpg"
+        },
+        {
+          "name": "Usługi upcyklingu i ponownego wykorzystania",
+          "image_url": "/images/upcycling-repurposing-services.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące recyklingu odpadów",
+          "image_url": "/images/waste-recycling-consultations.jpg"
+        },
+        {
+          "name": "Konsultacje dotyczące życia bez odpadów",
+          "image_url": "/images/zero-waste-living-consultation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi technologiczne i IT",
+      "category_image_url": "/images/tech-it-services.jpg",
+      "subcategories": [
+        {
+          "name": "Naprawa komputerów",
+          "image_url": "/images/computer-repair.jpg"
+        },
+        {
+          "name": "Odzyskiwanie danych",
+          "image_url": "/images/data-recovery.jpg"
+        },
+        {
+          "name": "Automatyka domowa",
+          "image_url": "/images/home-automation.jpg"
+        },
+        {
+          "name": "Konfiguracja sieci",
+          "image_url": "/images/network-setup.jpg"
+        },
+        {
+          "name": "Konfiguracja kamer bezpieczeństwa",
+          "image_url": "/images/security-camera-setup.jpg"
+        },
+        {
+          "name": "Instalacja inteligentnych zamków",
+          "image_url": "/images/smart-lock-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Usługi turystyczne i transportowe",
+      "category_image_url": "/images/Travel-Tourism-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Odbiór z lotniska i transport",
+          "image_url": "/images/airport-pickup-transport.jpg"
+        },
+        {
+          "name": "Lokalni przewodnicy",
+          "image_url": "/images/local-tour-guides.jpg"
+        },
+        {
+          "name": "Planowanie podróży i tworzenie planów podróży",
+          "image_url": "/images/travel-planning-itinerary-creation.jpg"
+        },
+        {
+          "name": "Konserwacja domów wakacyjnych",
+          "image_url": "/images/vacation-home-maintenance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Podróże i transport",
+      "category_image_url": "/images/Travel-Transportation.jpg",
+      "subcategories": [
+        {
+          "name": "Transfery z lotniska",
+          "image_url": "https://example"
+        },
+        {
+          "name": "Wynajem rowerów i skuterów",
+          "image_url": "/images/bicycle-scooter-rentals.jpg"
+        },
+        {
+          "name": "Czarter łodzi i jachtów",
+          "image_url": "/images/boat-yacht-charter.jpg"
+        },
+        {
+          "name": "Usługi wynajmu samochodów",
+          "image_url": "/images/car-rental-services.jpg"
+        },
+        {
+          "name": "Wycieczki helikopterem i czartery",
+          "image_url": "/images/helicopter-tours-charters.jpg"
+        },
+        {
+          "name": "Usługi limuzynowe",
+          "image_url": "/images/limousine-services.jpg"
+        },
+        {
+          "name": "Wynajem luksusowych samochodów",
+          "image_url": "/images/luxury-car-rentals.jpg"
+        },
+        {
+          "name": "Wynajem motocykli",
+          "image_url": "/images/motorcycle-rentals.jpg"
+        },
+        {
+          "name": "Usługi transportu zwierząt",
+          "image_url": "/images/pet-transportation-services.jpg"
+        },
+        {
+          "name": "Wynajem prywatnych kierowców",
+          "image_url": "/images/private-driver-hire.jpg"
+        },
+        {
+          "name": "Czartery prywatnych odrzutowców",
+          "image_url": "/images/private-jet-charters.jpg"
+        },
+        {
+          "name": "Wynajem kamperów i przyczep kempingowych",
+          "image_url": "/images/rv-camper-van-rentals.jpg"
+        },
+        {
+          "name": "Przewodnicy turystyczni i wycieczki",
+          "image_url": "/images/tour-guides-excursions.jpg"
+        },
+        {
+          "name": "Ubezpieczenie podróżne",
+          "image_url": "/images/travel-insurance.jpg"
+        },
+        {
+          "name": "Planowanie podróży i usługi tworzenia planów podróży",
+          "image_url": "/images/travel-planning-itinerary-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Wsparcie zdalne i wirtualne",
+      "category_image_url": "/images/Virtual-Assistance-Remote-Work-Support.jpg",
+      "subcategories": [
+        {
+          "name": "Wprowadzanie danych i przygotowywanie dokumentów",
+          "image_url": "/images/data-entry-document-preparation.jpg"
+        },
+        {
+          "name": "Zarządzanie sklepem e-commerce",
+          "image_url": "/images/ecommerce-store-management.jpg"
+        },
+        {
+          "name": "Zdalne wsparcie administracyjne dla firm",
+          "image_url": "/images/remote-business-admin-support.jpg"
+        },
+        {
+          "name": "Wirtualni asystenci",
+          "image_url": "/images/virtual-assistants.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "services": [
+    {
+      "category": "Appliance Repair",
+      "category_image_url": "/images/appliance-repair.jpg",
+      "subcategories": [
+        {
+          "name": "Air Conditioner Repair",
+          "image_url": "/images/air-conditioner-repair.jpg"
+        },
+        {
+          "name": "Boiler Repair",
+          "image_url": "/images/Boiler-Repair.jpg"
+        },
+        {
+          "name": "Dishwasher Repair",
+          "image_url": "/images/dishwasher-repair.jpg"
+        },
+        {
+          "name": "Dryer Repair",
+          "image_url": "/images/dryer-repair.jpg"
+        },
+        {
+          "name": "Freezer Repair",
+          "image_url": "/images/freezer-repair.jpg"
+        },
+        {
+          "name": "Garbage Disposal Repair",
+          "image_url": "/images/garbage-disposal-repair.jpg"
+        },
+        {
+          "name": "Ice Maker Repair",
+          "image_url": "/images/ice-maker-repair.jpg"
+        },
+        {
+          "name": "Microwave Repair",
+          "image_url": "/images/microwave-repair.jpg"
+        },
+        {
+          "name": "Oven and Stove Repair",
+          "image_url": "/images/oven-stove-repair.jpg"
+        },
+        {
+          "name": "Range Hood Repair",
+          "image_url": "/images/range-hood-repair.jpg"
+        },
+        {
+          "name": "Refrigerator Repair",
+          "image_url": "/images/refrigerator-repair.jpg"
+        },
+        {
+          "name": "Trash Compactor Repair",
+          "image_url": "/images/trash-compactor-repair.jpg"
+        },
+        {
+          "name": "Vent Hood Repair",
+          "image_url": "/images/vent-hood-repair.jpg"
+        },
+        {
+          "name": "Washing Machine Repair",
+          "image_url": "/images/washing-machine-repair.jpg"
+        },
+        {
+          "name": "Water Heater Repair",
+          "image_url": "/images/water-heater-repair.jpg"
+        },
+        {
+          "name": "Wine Cooler Repair",
+          "image_url": "/images/wine-cooler-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Art & Creative Services",
+      "category_image_url": "/images/Art-Creative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Content Writing & Copywriting",
+          "image_url": "/images/content-writing-copywriting.jpg"
+        },
+        {
+          "name": "Custom Illustrations & Paintings",
+          "image_url": "/images/custom-illustrations-paintings.jpg"
+        },
+        {
+          "name": "Graphic Design & Branding",
+          "image_url": "/images/graphic-design-branding.jpg"
+        },
+        {
+          "name": "Handmade Crafts & Custom Gifts",
+          "image_url": "/images/handmade-crafts-custom-gifts.jpg"
+        },
+        {
+          "name": "Podcast & Video Editing Services",
+          "image_url": "/images/podcast-video-editing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Auto & Vehicle Services",
+      "category_image_url": "/images/auto-vehicle-services.jpg",
+      "subcategories": [
+        {
+          "name": "Battery Replacement",
+          "image_url": "/images/battery-replacement.jpg"
+        },
+        {
+          "name": "Boat Cleaning Services",
+          "image_url": "/images/boat-cleaning-services.jpg"
+        },
+        {
+          "name": "Car Detailing",
+          "image_url": "/images/car-detailing.jpg"
+        },
+        {
+          "name": "E-Bike Repair",
+          "image_url": "/images/e-bike-repair.jpg"
+        },
+        {
+          "name": "Tire Replacement",
+          "image_url": "/images/tire-replacement.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Automotive Services",
+      "category_image_url": "/images/Automotive-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Bicycle Repair",
+          "image_url": "/images/bicycle-repair.jpg"
+        },
+        {
+          "name": "Car Rental & Leasing",
+          "image_url": "/images/car-rental-leasing.jpg"
+        },
+        {
+          "name": "Car Wash & Detailing",
+          "image_url": "/images/car-wash-detailing.jpg"
+        },
+        {
+          "name": "Emergency Roadside Assistance",
+          "image_url": "/images/emergency-roadside-assistance.jpg"
+        },
+        {
+          "name": "Minor Repairs & Maintenance",
+          "image_url": "/images/minor-repairs-maintenance.jpg"
+        },
+        {
+          "name": "Vehicle Inspection & Registration",
+          "image_url": "/images/vehicle-inspection-registration.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Business Services",
+      "category_image_url": "/images/business-services.jpg",
+      "subcategories": [
+        {
+          "name": "Commercial Cleaning",
+          "image_url": "/images/commercial-cleaning.jpg"
+        },
+        {
+          "name": "Janitorial Services",
+          "image_url": "/images"
+        },
+        {
+          "name": "Office Cleaning",
+          "image_url": "/images/office-cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Childcare & Family Services",
+      "category_image_url": "/images/Childcare-Family-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Babysitting & Nanny Services",
+          "image_url": "/images/babysitting-nanny-services.jpg"
+        },
+        {
+          "name": "Emergency Childcare",
+          "image_url": "/images/emergency-childcare.jpg"
+        },
+        {
+          "name": "Parent Coaching & Newborn Support",
+          "image_url": "/images/parent-coaching-newborn-support.jpg"
+        },
+        {
+          "name": "Special Needs Childcare",
+          "image_url": "/images/special-needs-childcare.jpg"
+        },
+        {
+          "name": "Tutoring for Kids",
+          "image_url": "/images/tutoring-for-kids.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Education & Tutoring",
+      "category_image_url": "/images/Education-Tutoring.jpg",
+      "subcategories": [
+        {
+          "name": "Academic Tutoring",
+          "image_url": "/images/academic-tutoring.jpg"
+        },
+        {
+          "name": "Coding & IT Training",
+          "image_url": "/images/coding-it-training.jpg"
+        },
+        {
+          "name": "Language Classes",
+          "image_url": "/images/language-classes.jpg"
+        },
+        {
+          "name": "Music Lessons",
+          "image_url": "/images/music-lessons.jpg"
+        },
+        {
+          "name": "Special Education Support",
+          "image_url": "/images/special-education-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Event & Entertainment",
+      "category_image_url": "/images/event-entertainment.jpg",
+      "subcategories": [
+        {
+          "name": "Catering",
+          "image_url": "/images/catering.jpg"
+        },
+        {
+          "name": "Decoration Services",
+          "image_url": "/images/decoration-services.jpg"
+        },
+        {
+          "name": "DJ Services",
+          "image_url": "/images/dj-services.jpg"
+        },
+        {
+          "name": "Drone Photography",
+          "image_url": "/images/drone-photography.jpg"
+        },
+        {
+          "name": "Event Planning",
+          "image_url": "/images/event-planning.jpg"
+        },
+        {
+          "name": "Photography",
+          "image_url": "/images/photography.jpg"
+        },
+        {
+          "name": "Videography",
+          "image_url": "/images/videography.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Fitness & Training",
+      "category_image_url": "/images/Fitness-Training.jpg",
+      "subcategories": [
+        {
+          "name": "Group Fitness Classes",
+          "image_url": "/images/group-fitness-classes.jpg"
+        },
+        {
+          "name": "Nutrition Coaching",
+          "image_url": "/images/nutrition-coaching.jpg"
+        },
+        {
+          "name": "Outdoor Boot Camps",
+          "image_url": "/images/outdoor-boot-camps.jpg"
+        },
+        {
+          "name": "Personal Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Virtual Fitness Coaching",
+          "image_url": "/images/virtual-fitness-coaching.jpg"
+        },
+        {
+          "name": "Yoga & Pilates Sessions",
+          "image_url": "/images/yoga-pilates-sessions.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Food & Grocery Delivery",
+      "category_image_url": "/images/Food-Grocery-Delivery.jpg",
+      "subcategories": [
+        {
+          "name": "Alcohol Delivery",
+          "image_url": "/images/alcohol-delivery.jpg"
+        },
+        {
+          "name": "Bakery & Pastry Delivery",
+          "image_url": "/images/bakery-pastry-delivery.jpg"
+        },
+        {
+          "name": "Local Farm & Fresh Produce Delivery",
+          "image_url": "/images/local-farm-fresh-produce-delivery.jpg"
+        },
+        {
+          "name": "Meal Kits & Prepared Meals",
+          "image_url": "/images/meal-kits-prepared-meals.jpg"
+        },
+        {
+          "name": "Specialty Diet Delivery (Vegan, Gluten-Free)",
+          "image_url": "/images/specialty-diet-delivery.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Government & Administrative Services",
+      "category_image_url": "/images/Government-Administrative-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Business Registration & Licensing",
+          "image_url": "/images/business-registration-licensing.jpg"
+        },
+        {
+          "name": "EU Grant & Funding Consulting",
+          "image_url": "/images/eu-grant-funding-consulting.jpg"
+        },
+        {
+          "name": "Notary Public Services",
+          "image_url": "/images/notary-public-services.jpg"
+        },
+        {
+          "name": "Translation & Document Certification",
+          "image_url": "/images/translation-document-certification.jpg"
+        },
+        {
+          "name": "Visa & Immigration Consulting",
+          "image_url": "/images/visa-immigration-consulting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Handyman & Repairs",
+      "category_image_url": "/images/handyman-repairs.jpg",
+      "subcategories": [
+        {
+          "name": "Curtain and Blind Installation",
+          "image_url": "/images/curtain-blind-installation.jpg"
+        },
+        {
+          "name": "Furniture Assembly",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "Small Wall Repairs",
+          "image_url": "/images/small-wall-repairs.jpg"
+        },
+        {
+          "name": "TV Mounting",
+          "image_url": "/images/tv-mounting.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Healthcare & Wellness",
+      "category_image_url": "/images/Healthcare-Wellness.jpg",
+      "subcategories": [
+        {
+          "name": "Alternative Therapy (Acupuncture, Homeopathy)",
+          "image_url": "/images/alternative-therapy.jpg"
+        },
+        {
+          "name": "At-home Physiotherapy",
+          "image_url": "/images/at-home-physiotherapy.jpg"
+        },
+        {
+          "name": "Elderly Care & Mobility Assistance",
+          "image_url": "/images/elderly-care-mobility-assistance.jpg"
+        },
+        {
+          "name": "Home Nursing & Medical Support",
+          "image_url": "/images/home-nursing-medical-support.jpg"
+        },
+        {
+          "name": "Massage Therapy",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Mental Health Counseling",
+          "image_url": "/images/mental-health-counseling.jpg"
+        },
+        {
+          "name": "Rehabilitation Services",
+          "image_url": "/images/rehabilitation-services.jpg"
+        },
+        {
+          "name": "Telehealth Consultations",
+          "image_url": "/images/telehealth-consultations.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Home Cleaning & Maintenance",
+      "image_url": "/images/Home Cleaning & Maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Bathroom Cleaning",
+          "image_url": "/images/Bathroom Cleaning.jpg"
+        },
+        {
+          "name": "Carpet & Upholstery Cleaning",
+          "image_url": "/images/Carpet & Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Carpet Cleaning",
+          "image_url": "/images/Carpet Cleaning.jpg"
+        },
+        {
+          "name": "Chimney Cleaning",
+          "image_url": "/images/Chimney Cleaning.jpg"
+        },
+        {
+          "name": "Chimney Sweeping",
+          "image_url": "/images/Chimney Sweeping.jpg"
+        },
+        {
+          "name": "Deep Cleaning",
+          "image_url": "/images/Deep Cleaning.jpg"
+        },
+        {
+          "name": "Disinfection Services",
+          "image_url": "/images/Disinfection Services.jpg"
+        },
+        {
+          "name": "Eco-Friendly Cleaning",
+          "image_url": "/images/Eco-Friendly Cleaning.jpg"
+        },
+        {
+          "name": "General Cleaning",
+          "image_url": "/images/General Cleaning.jpg"
+        },
+        {
+          "name": "Gutter Cleaning",
+          "image_url": "/images/Gutter Cleaning.jpg"
+        },
+        {
+          "name": "Kitchen Cleaning",
+          "image_url": "/images/Kitchen Cleaning.jpg"
+        },
+        {
+          "name": "Laundry & Ironing",
+          "image_url": "/images/Laundry & Ironing.jpg"
+        },
+        {
+          "name": "Living Room/Bedroom Cleaning",
+          "image_url": "/images/Living Room_Bedroom Cleaning.jpg"
+        },
+        {
+          "name": "Move-In/Move-Out Cleaning",
+          "image_url": "/images/Move-In_Move-Out Cleaning.jpg"
+        },
+        {
+          "name": "Pressure Washing",
+          "image_url": "/images/Pressure Washing.jpg"
+        },
+        {
+          "name": "Regular House Cleaning",
+          "image_url": "/images/Regular House Cleaning.jpg"
+        },
+        {
+          "name": "Upholstery Cleaning",
+          "image_url": "/images/Upholstery Cleaning.jpg"
+        },
+        {
+          "name": "Wardrobe Organization",
+          "image_url": "/images/Wardrobe Organization.jpg"
+        },
+        {
+          "name": "Window Cleaning",
+          "image_url": "/images/Window Cleaning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Home Improvement & Design",
+      "category_image_url": "/images/Home-Improvement-Design.jpg",
+      "subcategories": [
+        {
+          "name": "Custom Carpentry & Woodworking",
+          "image_url": "/images/custom-carpentry-woodworking.jpg"
+        },
+        {
+          "name": "Furniture Assembly & Installation",
+          "image_url": "/images/furniture-assembly-installation.jpg"
+        },
+        {
+          "name": "Home Office Design & Organization",
+          "image_url": "/images/home-office-design-organization.jpg"
+        },
+        {
+          "name": "Home Renovation Planning",
+          "image_url": "/images/home-renovation-planning.jpg"
+        },
+        {
+          "name": "Interior Design Consultations",
+          "image_url": "/images/interior-design-consultations.jpg"
+        },
+        {
+          "name": "Smart Home Setup & Installation",
+          "image_url": "/images/smart-home-setup-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Home Security",
+      "category_image_url": "/images/home-security.jpg",
+      "subcategories": [
+        {
+          "name": "Alarm System Installation",
+          "image_url": "/images/alarm-system-installation.jpg"
+        },
+        {
+          "name": "Alarm System Maintenance",
+          "image_url": "/images/alarm-system-maintenance.jpg"
+        },
+        {
+          "name": "Alarm System Repair",
+          "image_url": "/images/alarm-system-repair.jpg"
+        },
+        {
+          "name": "Door Sensor Installation",
+          "image_url": "/images/door-sensor-installation.jpg"
+        },
+        {
+          "name": "Door Sensor Maintenance",
+          "image_url": "/images/door-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Door Sensor Repair",
+          "image_url": "/images/door-sensor-repair.jpg"
+        },
+        {
+          "name": "Intercom System Installation",
+          "image_url": "/images/intercom-system-installation.jpg"
+        },
+        {
+          "name": "Intercom System Maintenance",
+          "image_url": "/images/intercom-system-maintenance.jpg"
+        },
+        {
+          "name": "Intercom System Repair",
+          "image_url": "/images/intercom-system-repair.jpg"
+        },
+        {
+          "name": "Motion Sensor Installation",
+          "image_url": "/images/motion-sensor-installation.jpg"
+        },
+        {
+          "name": "Motion Sensor Maintenance",
+          "image_url": "/images/motion-sensor-maintenance.jpg"
+        },
+        {
+          "name": "Motion Sensor Repair",
+          "image_url": "/images/motion-sensor-repair.jpg"
+        },
+        {
+          "name": "Security Camera Installation",
+          "image_url": "/images/security-camera-installation.jpg"
+        },
+        {
+          "name": "Security Camera Maintenance",
+          "image_url": "/images/security-camera-maintenance.jpg"
+        },
+        {
+          "name": "Security Camera Repair",
+          "image_url": "/images/security-camera-repair.jpg"
+        },
+        {
+          "name": "Security System Maintenance",
+          "image_url": "/images/security-system-maintenance.jpg"
+        },
+        {
+          "name": "Security System Repair",
+          "image_url": "/images/security-system-repair.jpg"
+        },
+        {
+          "name": "Smart Lock Installation",
+          "image_url": "/images/smart-lock-installation.jpg"
+        },
+        {
+          "name": "Smart Lock Maintenance",
+          "image_url": "/images/smart-lock-maintenance.jpg"
+        },
+        {
+          "name": "Smart Lock Repair",
+          "image_url": "/images/smart-lock-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "HVAC & Maintenance",
+      "category_image_url": "/images/hvac-maintenance.jpg",
+      "subcategories": [
+        {
+          "name": "Air Conditioning Installation",
+          "image_url": "/images/air-conditioning-installation.jpg"
+        },
+        {
+          "name": "Air Purifier Installation",
+          "image_url": "/images/air-purifier-installation.jpg"
+        },
+        {
+          "name": "Air Quality Testing",
+          "image_url": "/images/air-quality-testing.jpg"
+        },
+        {
+          "name": "Boiler Maintenance",
+          "image_url": "/images/boiler-maintenance.jpg"
+        },
+        {
+          "name": "Dehumidifier Installation",
+          "image_url": "/images/dehumidifier-installation.jpg"
+        },
+        {
+          "name": "Duct Cleaning",
+          "image_url": "/images/duct-cleaning.jpg"
+        },
+        {
+          "name": "Duct Repair",
+          "image_url": "/images/duct-repair.jpg"
+        },
+        {
+          "name": "Furnace Installation",
+          "image_url": "/images/furnace-installation.jpg"
+        },
+        {
+          "name": "Furnace Repair",
+          "image_url": "/images/furnace-repair.jpg"
+        },
+        {
+          "name": "Heat Pump Installation",
+          "image_url": "/images/heat-pump-installation.jpg"
+        },
+        {
+          "name": "Heat Pump Repair",
+          "image_url": "/images/heat-pump-repair.jpg"
+        },
+        {
+          "name": "Humidifier Installation",
+          "image_url": "/images/humidifier-installation.jpg"
+        },
+        {
+          "name": "HVAC Maintenance",
+          "image_url": "/images/hvac-maintenance.jpg"
+        },
+        {
+          "name": "HVAC Repair",
+          "image_url": "/images/hvac-repair.jpg"
+        },
+        {
+          "name": "Thermostat Installation",
+          "image_url": "/images/thermostat-installation.jpg"
+        },
+        {
+          "name": "Thermostat Repair",
+          "image_url": "/images/thermostat-repair.jpg"
+        },
+        {
+          "name": "Ventilation Installation",
+          "image_url": "/images/ventilation-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Legal & Financial Services",
+      "category_image_url": "/images/Legal-Financial-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Accounting & Tax Filing",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "EU Compliance & GDPR Consulting",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "HR & Recruitment Services",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Legal Consultations",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Marketing & Branding Services",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "Resume Writing & Career Coaching",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Logistics & Moving",
+      "category_image_url": "/images/Logistics-Moving.jpg",
+      "subcategories": [
+        {
+          "name": "Furniture Assembly",
+          "image_url": "/images/furniture-assembly.jpg"
+        },
+        {
+          "name": "International Moving & Relocation",
+          "image_url": "/images/international-moving-relocation.jpg"
+        },
+        {
+          "name": "Packing & Unpacking Services",
+          "image_url": "/images/packing-unpacking-services.jpg"
+        },
+        {
+          "name": "Short-term Storage Solutions",
+          "image_url": "/images/short-term-storage-solutions.jpg"
+        },
+        {
+          "name": "Vehicle Rental (Vans, Trucks)",
+          "image_url": "/images/vehicle-rental-vans-trucks.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Moving & Relocation",
+      "category_image_url": "/images/moving-relocation.jpg",
+      "subcategories": [
+        {
+          "name": "Courier Services",
+          "image_url": "/images/courier-services.jpg"
+        },
+        {
+          "name": "Furniture Delivery",
+          "image_url": "/images/furniture-delivery.jpg"
+        },
+        {
+          "name": "International Moving",
+          "image_url": "/images/international-moving.jpg"
+        },
+        {
+          "name": "Local Moving",
+          "image_url": "/images/local-moving.jpg"
+        },
+        {
+          "name": "Long-Distance Moving",
+          "image_url": "/images/long-distance-moving.jpg"
+        },
+        {
+          "name": "Packing Services",
+          "image_url": "/images/packing-services.jpg"
+        },
+        {
+          "name": "Small Load Transport",
+          "image_url": "/images/small-load-transport.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Outdoor & Gardening",
+      "category_image_url": "/images/outdoor-gardening.jpg",
+      "subcategories": [
+        {
+          "name": "Deck Repair",
+          "image_url": "/images/deck-repair.jpg"
+        },
+        {
+          "name": "Fence Installation",
+          "image_url": "/images/fence-installation.jpg"
+        },
+        {
+          "name": "Garden Maintenance",
+          "image_url": "/images/garden-maintenance.jpg"
+        },
+        {
+          "name": "Hedge Trimming",
+          "image_url": "/images/hedge-trimming.jpg"
+        },
+        {
+          "name": "Irrigation System Installation",
+          "image_url": "/images/irrigation-system-installation.jpg"
+        },
+        {
+          "name": "Lawn Mowing",
+          "image_url": "/images/lawn-mowing.jpg"
+        },
+        {
+          "name": "Outdoor Lighting Installation",
+          "image_url": "/images/outdoor-lighting-installation.jpg"
+        },
+        {
+          "name": "Tree Pruning",
+          "image_url": "/images/tree-pruning.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Painting & Renovation",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Bathroom Remodeling",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Deck and Patio Building",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Exterior Painting",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Interior Painting",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Kitchen Remodeling",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pest Control",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Ant Control",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bed Bug Treatment",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bee Control",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Beetle Control",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Centipede Control",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Cockroach Control",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Earwig Control",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Flea Control",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Fly Control",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Millipede Control",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Mosquito Control",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Moth Control",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Rodent Control",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Silverfish Control",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spider Control",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termite Control",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wasp Control",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Weevil Control",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Personal & Lifestyle",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Babysitting",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Bridal Makeup",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Dementia Care",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Dog Walking",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Hair Styling",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Massage Therapy",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Meal Preparation",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Mobility Assistance",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Nail Care",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Nanny Services",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Personal Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Pet Grooming",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Pet Sitting",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Physiotherapy",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Tutoring",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Veterinary Visits",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Yoga Instruction",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Personal Care & Beauty",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "At-home Spa & Wellness Treatments",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Haircuts & Styling",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Makeup Artistry",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure & Pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Skincare Treatments",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Tattoo & Piercing Services",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pet Care",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Dog Walking",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Grooming (Bathing, Nail Trimming)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Pet Sitting",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Pet Training (Obedience, Behavioral)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Pet Transportation",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Veterinary Home Visits",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Painting & Renovation",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Bathroom Remodeling",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Deck and Patio Building",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Exterior Painting",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Interior Painting",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Kitchen Remodeling",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pest Control",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Ant Control",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bed Bug Treatment",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bee Control",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Beetle Control",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Centipede Control",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Cockroach Control",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Earwig Control",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Flea Control",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Fly Control",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Millipede Control",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Mosquito Control",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Moth Control",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Rodent Control",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Silverfish Control",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spider Control",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termite Control",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wasp Control",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Weevil Control",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Personal & Lifestyle",
+      "category_image_url": "/images/personal-lifestyle.jpg",
+      "subcategories": [
+        {
+          "name": "Babysitting",
+          "image_url": "/images/babysitting.jpg"
+        },
+        {
+          "name": "Bridal Makeup",
+          "image_url": "/images/bridal-makeup.jpg"
+        },
+        {
+          "name": "Dementia Care",
+          "image_url": "/images/dementia-care.jpg"
+        },
+        {
+          "name": "Dog Walking",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Hair Styling",
+          "image_url": "/images/hair-styling.jpg"
+        },
+        {
+          "name": "Massage Therapy",
+          "image_url": "/images/massage-therapy.jpg"
+        },
+        {
+          "name": "Meal Preparation",
+          "image_url": "/images/meal-preparation.jpg"
+        },
+        {
+          "name": "Mobility Assistance",
+          "image_url": "/images/mobility-assistance.jpg"
+        },
+        {
+          "name": "Nail Care",
+          "image_url": "/images/nail-care.jpg"
+        },
+        {
+          "name": "Nanny Services",
+          "image_url": "/images/nanny-services.jpg"
+        },
+        {
+          "name": "Personal Training",
+          "image_url": "/images/personal-training.jpg"
+        },
+        {
+          "name": "Pet Grooming",
+          "image_url": "/images/pet-grooming.jpg"
+        },
+        {
+          "name": "Pet Sitting",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Physiotherapy",
+          "image_url": "/images/physiotherapy.jpg"
+        },
+        {
+          "name": "Tutoring",
+          "image_url": "/images/tutoring.jpg"
+        },
+        {
+          "name": "Veterinary Visits",
+          "image_url": "/images/veterinary-visits.jpg"
+        },
+        {
+          "name": "Yoga Instruction",
+          "image_url": "/images/yoga-instruction.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Personal Care & Beauty",
+      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "subcategories": [
+        {
+          "name": "At-home Spa & Wellness Treatments",
+          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+        },
+        {
+          "name": "Haircuts & Styling",
+          "image_url": "/images/haircuts-styling.jpg"
+        },
+        {
+          "name": "Makeup Artistry",
+          "image_url": "/images/makeup-artistry.jpg"
+        },
+        {
+          "name": "Manicure & Pedicure",
+          "image_url": "/images/manicure-pedicure.jpg"
+        },
+        {
+          "name": "Skincare Treatments",
+          "image_url": "/images/skincare-treatments.jpg"
+        },
+        {
+          "name": "Tattoo & Piercing Services",
+          "image_url": "/images/tattoo-piercing-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pet Care",
+      "category_image_url": "/images/Pet-Care.jpg",
+      "subcategories": [
+        {
+          "name": "Dog Walking",
+          "image_url": "/images/dog-walking.jpg"
+        },
+        {
+          "name": "Grooming (Bathing, Nail Trimming)",
+          "image_url": "/images/grooming.jpg"
+        },
+        {
+          "name": "Pet Sitting",
+          "image_url": "/images/pet-sitting.jpg"
+        },
+        {
+          "name": "Pet Training (Obedience, Behavioral)",
+          "image_url": "/images/pet-training.jpg"
+        },
+        {
+          "name": "Pet Transportation",
+          "image_url": "/images/pet-transportation.jpg"
+        },
+        {
+          "name": "Veterinary Home Visits",
+          "image_url": "/images/veterinary-home-visits.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Painting & Renovation",
+      "category_image_url": "/images/painting-renovation.jpg",
+      "subcategories": [
+        {
+          "name": "Bathroom Remodeling",
+          "image_url": "/images/bathroom-remodeling.jpg"
+        },
+        {
+          "name": "Deck and Patio Building",
+          "image_url": "/images/deck-patio-building.jpg"
+        },
+        {
+          "name": "Exterior Painting",
+          "image_url": "/images/exterior-painting.jpg"
+        },
+        {
+          "name": "Interior Painting",
+          "image_url": "/images/interior-painting.jpg"
+        },
+        {
+          "name": "Kitchen Remodeling",
+          "image_url": "/images/kitchen-remodeling.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pest Control",
+      "category_image_url": "/images/pest-control.jpg",
+      "subcategories": [
+        {
+          "name": "Ant Control",
+          "image_url": "/images/ant-control.jpg"
+        },
+        {
+          "name": "Bed Bug Treatment",
+          "image_url": "/images/bed-bug-treatment.jpg"
+        },
+        {
+          "name": "Bee Control",
+          "image_url": "/images/bee-control.jpg"
+        },
+        {
+          "name": "Beetle Control",
+          "image_url": "/images/beetle-control.jpg"
+        },
+        {
+          "name": "Centipede Control",
+          "image_url": "/images/centipede-control.jpg"
+        },
+        {
+          "name": "Cockroach Control",
+          "image_url": "/images/cockroach-control.jpg"
+        },
+        {
+          "name": "Earwig Control",
+          "image_url": "/images/earwig-control.jpg"
+        },
+        {
+          "name": "Flea Control",
+          "image_url": "/images/flea-control.jpg"
+        },
+        {
+          "name": "Fly Control",
+          "image_url": "/images/fly-control.jpg"
+        },
+        {
+          "name": "Millipede Control",
+          "image_url": "/images/millipede-control.jpg"
+        },
+        {
+          "name": "Mosquito Control",
+          "image_url": "/images/mosquito-control.jpg"
+        },
+        {
+          "name": "Moth Control",
+          "image_url": "/images/moth-control.jpg"
+        },
+        {
+          "name": "Rodent Control",
+          "image_url": "/images/rodent-control.jpg"
+        },
+        {
+          "name": "Silverfish Control",
+          "image_url": "/images/silverfish-control.jpg"
+        },
+        {
+          "name": "Spider Control",
+          "image_url": "/images/spider-control.jpg"
+        },
+        {
+          "name": "Termite Control",
+          "image_url": "/images/termite-control.jpg"
+        },
+        {
+          "name": "Wasp Control",
+          "image_url": "/images/wasp-control.jpg"
+        },
+        {
+          "name": "Weevil Control",
+          "image_url": "/images/weevil-control.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Plumbing & Electrical",
+      "category_image_url": "/images/plumbing-electrical.jpg",
+      "subcategories": [
+        {
+          "name": "Circuit Breaker Replacement",
+          "image_url": "/images/circuit-breaker-replacement.jpg"
+        },
+        {
+          "name": "Drain Cleaning",
+          "image_url": "/images/drain-cleaning.jpg"
+        },
+        {
+          "name": "Electrical Wiring",
+          "image_url": "/images/electrical-wiring.jpg"
+        },
+        {
+          "name": "Faucet and Sink Repair",
+          "image_url": "/images/faucet-sink-repair.jpg"
+        },
+        {
+          "name": "Home Automation Setup",
+          "image_url": "/images/home-automation-setup.jpg"
+        },
+        {
+          "name": "Leak Detection and Repair",
+          "image_url": "/images/leak-detection-repair.jpg"
+        },
+        {
+          "name": "Lighting Installation",
+          "image_url": "/images/lighting-installation.jpg"
+        },
+        {
+          "name": "Radiator Installation",
+          "image_url": "/images/radiator-installation.jpg"
+        },
+        {
+          "name": "Solar Panel Setup",
+          "image_url": "/images/solar-panel-setup.jpg"
+        },
+        {
+          "name": "Toilet Repair and Installation",
+          "image_url": "/images/toilet-repair-installation.jpg"
+        },
+        {
+          "name": "Water Heater Repair",
+          "image_url": "/images/water-heater-repair.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Professional & Business Services",
+      "category_image_url": "/images/Professional-Business-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Accounting & Tax Filing",
+          "image_url": "/images/accounting-tax-filing.jpg"
+        },
+        {
+          "name": "EU Compliance & GDPR Consulting",
+          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+        },
+        {
+          "name": "HR & Recruitment Services",
+          "image_url": "/images/hr-recruitment-services.jpg"
+        },
+        {
+          "name": "Legal Consultations",
+          "image_url": "/images/legal-consultations.jpg"
+        },
+        {
+          "name": "Marketing & Branding Services",
+          "image_url": "/images/marketing-branding-services.jpg"
+        },
+        {
+          "name": "Resume Writing & Career Coaching",
+          "image_url": "/images/resume-writing-career-coaching.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Real Estate & Property Management",
+      "category_image_url": "/images/Real-Estate-Property-Management.jpg",
+      "subcategories": [
+        {
+          "name": "Airbnb & Short-term Rental Management",
+          "image_url": "/images/airbnb-short-term-rental-management.jpg"
+        },
+        {
+          "name": "Home Inspection Services",
+          "image_url": "/images/home-inspection-services.jpg"
+        },
+        {
+          "name": "Property Listing & Staging",
+          "image_url": "/images/property-listing-staging.jpg"
+        },
+        {
+          "name": "Rental Property Management",
+          "image_url": "/images/rental-property-management.jpg"
+        },
+        {
+          "name": "Tenant Screening & Legal Support",
+          "image_url": "/images/tenant-screening-legal-support.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Senior Care & Assistance",
+      "category_image_url": "/images/Senior-Care-Assistance.jpg",
+      "subcategories": [
+        {
+          "name": "Companionship Services",
+          "image_url": "/images/companionship-services.jpg"
+        },
+        {
+          "name": "In-home Elderly Care",
+          "image_url": "/images/in-home-elderly-care.jpg"
+        },
+        {
+          "name": "Meal Preparation & Feeding Assistance",
+          "image_url": "/images/meal-preparation-feeding-assistance.jpg"
+        },
+        {
+          "name": "Medication Management",
+          "image_url": "/images/medication-management.jpg"
+        },
+        {
+          "name": "Transportation Assistance",
+          "image_url": "/images/transportation-assistance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Specialized & Emergency Services",
+      "category_image_url": "/images/specialized-emergency-services.jpg",
+      "subcategories": [
+        {
+          "name": "Boiler Repair",
+          "image_url": "/images/boiler-repair.jpg"
+        },
+        {
+          "name": "Electrical Emergencies",
+          "image_url": "/images/electrical-emergencies.jpg"
+        },
+        {
+          "name": "Gas Leak Repair",
+          "image_url": "/images/gas-leak-repair.jpg"
+        },
+        {
+          "name": "Home Staging",
+          "image_url": "/images/home-staging.jpg"
+        },
+        {
+          "name": "Junk Hauling",
+          "image_url": "/images/junk-hauling.jpg"
+        },
+        {
+          "name": "Property Management",
+          "image_url": "/images/property-management.jpg"
+        },
+        {
+          "name": "Snow Removal",
+          "image_url": "/images/snow-removal.jpg"
+        },
+        {
+          "name": "Vacation Rental Cleaning",
+          "image_url": "/images/vacation-rental-cleaning.jpg"
+        },
+        {
+          "name": "Waste Removal",
+          "image_url": "/images/waste-removal.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Sustainability & Green Services",
+      "category_image_url": "/images/Sustainability-Green-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Eco-Friendly Product Delivery",
+          "image_url": "/images/eco-friendly-product-delivery.jpg"
+        },
+        {
+          "name": "Energy Efficiency Audits",
+          "image_url": "/images/energy-efficiency-audits.jpg"
+        },
+        {
+          "name": "Solar Panel Installation",
+          "image_url": "/images/solar-panel-installation.jpg"
+        },
+        {
+          "name": "Upcycling & Repurposing Services",
+          "image_url": "/images/upcycling-repurposing-services.jpg"
+        },
+        {
+          "name": "Waste Recycling Consultations",
+          "image_url": "/images/waste-recycling-consultations.jpg"
+        },
+        {
+          "name": "Zero-Waste Living Consultation",
+          "image_url": "/images/zero-waste-living-consultation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Tech & IT Services",
+      "category_image_url": "/images/tech-it-services.jpg",
+      "subcategories": [
+        {
+          "name": "Computer Repair",
+          "image_url": "/images/computer-repair.jpg"
+        },
+        {
+          "name": "Data Recovery",
+          "image_url": "/images/data-recovery.jpg"
+        },
+        {
+          "name": "Home Automation",
+          "image_url": "/images/home-automation.jpg"
+        },
+        {
+          "name": "Network Setup",
+          "image_url": "/images/network-setup.jpg"
+        },
+        {
+          "name": "Security Camera Setup",
+          "image_url": "/images/security-camera-setup.jpg"
+        },
+        {
+          "name": "Smart Lock Installation",
+          "image_url": "/images/smart-lock-installation.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Travel & Tourism Services",
+      "category_image_url": "/images/Travel-Tourism-Services.jpg",
+      "subcategories": [
+        {
+          "name": "Airport Pickup & Transport",
+          "image_url": "/images/airport-pickup-transport.jpg"
+        },
+        {
+          "name": "Local Tour Guides",
+          "image_url": "/images/local-tour-guides.jpg"
+        },
+        {
+          "name": "Travel Planning & Itinerary Creation",
+          "image_url": "/images/travel-planning-itinerary-creation.jpg"
+        },
+        {
+          "name": "Vacation Home Maintenance",
+          "image_url": "/images/vacation-home-maintenance.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Travel & Transportation",
+      "category_image_url": "/images/Travel-Transportation.jpg",
+      "subcategories": [
+        {
+          "name": "Airport Transfers",
+          "image_url": "https://example"
+        },
+        {
+          "name": "Bicycle & Scooter Rentals",
+          "image_url": "/images/bicycle-scooter-rentals.jpg"
+        },
+        {
+          "name": "Boat & Yacht Charter",
+          "image_url": "/images/boat-yacht-charter.jpg"
+        },
+        {
+          "name": "Car Rental Services",
+          "image_url": "/images/car-rental-services.jpg"
+        },
+        {
+          "name": "Helicopter Tours & Charters",
+          "image_url": "/images/helicopter-tours-charters.jpg"
+        },
+        {
+          "name": "Limousine Services",
+          "image_url": "/images/limousine-services.jpg"
+        },
+        {
+          "name": "Luxury Car Rentals",
+          "image_url": "/images/luxury-car-rentals.jpg"
+        },
+        {
+          "name": "Motorcycle Rentals",
+          "image_url": "/images/motorcycle-rentals.jpg"
+        },
+        {
+          "name": "Pet Transportation Services",
+          "image_url": "/images/pet-transportation-services.jpg"
+        },
+        {
+          "name": "Private Driver Hire",
+          "image_url": "/images/private-driver-hire.jpg"
+        },
+        {
+          "name": "Private Jet Charters",
+          "image_url": "/images/private-jet-charters.jpg"
+        },
+        {
+          "name": "RV & Camper Van Rentals",
+          "image_url": "/images/rv-camper-van-rentals.jpg"
+        },
+        {
+          "name": "Tour Guides & Excursions",
+          "image_url": "/images/tour-guides-excursions.jpg"
+        },
+        {
+          "name": "Travel Insurance",
+          "image_url": "/images/travel-insurance.jpg"
+        },
+        {
+          "name": "Travel Planning & Itinerary Services",
+          "image_url": "/images/travel-planning-itinerary-services.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Virtual Assistance & Remote Work Support",
+      "category_image_url": "/images/Virtual-Assistance-Remote-Work-Support.jpg",
+      "subcategories": [
+        {
+          "name": "Data Entry & Document Preparation",
+          "image_url": "/images/data-entry-document-preparation.jpg"
+        },
+        {
+          "name": "E-commerce Store Management",
+          "image_url": "/images/ecommerce-store-management.jpg"
+        },
+        {
+          "name": "Remote Business Admin Support",
+          "image_url": "/images/remote-business-admin-support.jpg"
+        },
+        {
+          "name": "Virtual Assistants",
+          "image_url": "/images/virtual-assistants.jpg"
+        }
+      ]
+    }
+  ]
+}
