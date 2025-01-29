@@ -2,1641 +2,1641 @@
   "services": [
     {
       "category": "Deisiúchán Fearais",
-      "category_image_url": "/images/appliance-repair.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/appliance-repair.jpg",
       "subcategories": [
         {
           "name": "Deisiúchán Aerchóirithe",
-          "image_url": "/images/air-conditioner-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/air-conditioner-repair.jpg"
         },
         {
           "name": "Deisiúchán Coire",
-          "image_url": "/images/Boiler-Repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Boiler-Repair.jpg"
         },
         {
           "name": "Deisiúchán Miasniteoir",
-          "image_url": "/images/dishwasher-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dishwasher-repair.jpg"
         },
         {
           "name": "Deisiúchán Triomadóir",
-          "image_url": "/images/dryer-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dryer-repair.jpg"
         },
         {
           "name": "Deisiúchán Reoiteoir",
-          "image_url": "/images/freezer-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/freezer-repair.jpg"
         },
         {
           "name": "Deisiúchán Diúscartha Dramhaíola",
-          "image_url": "/images/garbage-disposal-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/garbage-disposal-repair.jpg"
         },
         {
           "name": "Deisiúchán Déantóir Oighir",
-          "image_url": "/images/ice-maker-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ice-maker-repair.jpg"
         },
         {
           "name": "Deisiúchán Micreathonn",
-          "image_url": "/images/microwave-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/microwave-repair.jpg"
         },
         {
           "name": "Deisiúchán Oighinn agus Sorn",
-          "image_url": "/images/oven-stove-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/oven-stove-repair.jpg"
         },
         {
           "name": "Deisiúchán Cochall Raon",
-          "image_url": "/images/range-hood-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/range-hood-repair.jpg"
         },
         {
           "name": "Deisiúchán Cuisneoir",
-          "image_url": "/images/refrigerator-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/refrigerator-repair.jpg"
         },
         {
           "name": "Deisiúchán Comhbhailitheoir Dramhaíola",
-          "image_url": "/images/trash-compactor-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/trash-compactor-repair.jpg"
         },
         {
           "name": "Deisiúchán Cochall Aeir",
-          "image_url": "/images/vent-hood-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/vent-hood-repair.jpg"
         },
         {
           "name": "Deisiúchán Meaisín Níocháin",
-          "image_url": "/images/washing-machine-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/washing-machine-repair.jpg"
         },
         {
           "name": "Deisiúchán Téitheoir Uisce",
-          "image_url": "/images/water-heater-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/water-heater-repair.jpg"
         },
         {
           "name": "Deisiúchán Fuaraitheoir Fíon",
-          "image_url": "/images/wine-cooler-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/wine-cooler-repair.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Ealaíne & Cruthaitheacha",
-      "category_image_url": "/images/Art-Creative-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Art-Creative-Services.jpg",
       "subcategories": [
         {
           "name": "Scríbhneoireacht Ábhair & Cóipcheart",
-          "image_url": "/images/content-writing-copywriting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/content-writing-copywriting.jpg"
         },
         {
           "name": "Léaráidí & Péinteáil Saincheaptha",
-          "image_url": "/images/custom-illustrations-paintings.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/custom-illustrations-paintings.jpg"
         },
         {
           "name": "Dearadh Grafach & Brandáil",
-          "image_url": "/images/graphic-design-branding.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/graphic-design-branding.jpg"
         },
         {
           "name": "Ceardaíocht Lámhdhéanta & Bronntanais Saincheaptha",
-          "image_url": "/images/handmade-crafts-custom-gifts.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/handmade-crafts-custom-gifts.jpg"
         },
         {
           "name": "Seirbhísí Eagarthóireachta Podchraolta & Físeáin",
-          "image_url": "/images/podcast-video-editing-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/podcast-video-editing-services.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Gluaisteán & Feithiclí",
-      "category_image_url": "/images/auto-vehicle-services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/auto-vehicle-services.jpg",
       "subcategories": [
         {
           "name": "Athsholáthar Ceallraí",
-          "image_url": "/images/battery-replacement.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/battery-replacement.jpg"
         },
         {
           "name": "Seirbhísí Glantacháin Bád",
-          "image_url": "/images/boat-cleaning-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/boat-cleaning-services.jpg"
         },
         {
           "name": "Mionsonraí Carr",
-          "image_url": "/images/car-detailing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/car-detailing.jpg"
         },
         {
           "name": "Deisiúchán Rothar Leictreach",
-          "image_url": "/images/e-bike-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/e-bike-repair.jpg"
         },
         {
           "name": "Athsholáthar Bonn",
-          "image_url": "/images/tire-replacement.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tire-replacement.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Gluaisteán",
-      "category_image_url": "/images/Automotive-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Automotive-Services.jpg",
       "subcategories": [
         {
           "name": "Deisiúchán Rothar",
-          "image_url": "/images/bicycle-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bicycle-repair.jpg"
         },
         {
           "name": "Cíos & Léas Carr",
-          "image_url": "/images/car-rental-leasing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/car-rental-leasing.jpg"
         },
         {
           "name": "Níochán & Mionsonraí Carr",
-          "image_url": "/images/car-wash-detailing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/car-wash-detailing.jpg"
         },
         {
           "name": "Cúnamh Taobh Bóthair Éigeandála",
-          "image_url": "/images/emergency-roadside-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/emergency-roadside-assistance.jpg"
         },
         {
           "name": "Deisiúcháin & Cothabháil Mion",
-          "image_url": "/images/minor-repairs-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/minor-repairs-maintenance.jpg"
         },
         {
           "name": "Cigireacht & Clárú Feithicle",
-          "image_url": "/images/vehicle-inspection-registration.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/vehicle-inspection-registration.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Gnó",
-      "category_image_url": "/images/business-services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/business-services.jpg",
       "subcategories": [
         {
           "name": "Glantachán Tráchtála",
-          "image_url": "/images/commercial-cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/commercial-cleaning.jpg"
         },
         {
           "name": "Seirbhísí Glantacháin",
-          "image_url": "/images"
+          "image_url": "/image/upload/c_thumb,w_200,g_face"
         },
         {
           "name": "Glantachán Oifige",
-          "image_url": "/images/office-cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/office-cleaning.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Cúraim Leanaí & Teaghlaigh",
-      "category_image_url": "/images/Childcare-Family-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Childcare-Family-Services.jpg",
       "subcategories": [
         {
           "name": "Seirbhísí Cúraim Leanaí & Nanny",
-          "image_url": "/images/babysitting-nanny-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/babysitting-nanny-services.jpg"
         },
         {
           "name": "Cúram Leanaí Éigeandála",
-          "image_url": "/images/emergency-childcare.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/emergency-childcare.jpg"
         },
         {
           "name": "Cóitseáil Tuismitheoirí & Tacaíocht Nuabheirthe",
-          "image_url": "/images/parent-coaching-newborn-support.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/parent-coaching-newborn-support.jpg"
         },
         {
           "name": "Cúram Leanaí Riachtanais Speisialta",
-          "image_url": "/images/special-needs-childcare.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/special-needs-childcare.jpg"
         },
         {
           "name": "Teagasc do Pháistí",
-          "image_url": "/images/tutoring-for-kids.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tutoring-for-kids.jpg"
         }
       ]
     },
     {
       "category": "Oideachas & Teagasc",
-      "category_image_url": "/images/Education-Tutoring.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Education-Tutoring.jpg",
       "subcategories": [
         {
           "name": "Teagasc Acadúil",
-          "image_url": "/images/academic-tutoring.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/academic-tutoring.jpg"
         },
         {
           "name": "Oiliúint Ríomhchódaithe & TF",
-          "image_url": "/images/coding-it-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/coding-it-training.jpg"
         },
         {
           "name": "Ranganna Teanga",
-          "image_url": "/images/language-classes.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/language-classes.jpg"
         },
         {
           "name": "Ceachtanna Ceoil",
-          "image_url": "/images/music-lessons.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/music-lessons.jpg"
         },
         {
           "name": "Tacaíocht Oideachais Speisialta",
-          "image_url": "/images/special-education-support.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/special-education-support.jpg"
         }
       ]
     },
     {
       "category": "Imeacht & Siamsaíocht",
-      "category_image_url": "/images/event-entertainment.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/event-entertainment.jpg",
       "subcategories": [
         {
           "name": "Lónadóireacht",
-          "image_url": "/images/catering.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/catering.jpg"
         },
         {
           "name": "Seirbhísí Maisiúcháin",
-          "image_url": "/images/decoration-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/decoration-services.jpg"
         },
         {
           "name": "Seirbhísí DJ",
-          "image_url": "/images/dj-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dj-services.jpg"
         },
         {
           "name": "Grianghrafadóireacht Drone",
-          "image_url": "/images/drone-photography.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/drone-photography.jpg"
         },
         {
           "name": "Pleanáil Imeachta",
-          "image_url": "/images/event-planning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/event-planning.jpg"
         },
         {
           "name": "Grianghrafadóireacht",
-          "image_url": "/images/photography.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/photography.jpg"
         },
         {
           "name": "Físeagrafaíocht",
-          "image_url": "/images/videography.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/videography.jpg"
         }
       ]
     },
     {
       "category": "Aclaíocht & Oiliúint",
-      "category_image_url": "/images/Fitness-Training.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Fitness-Training.jpg",
       "subcategories": [
         {
           "name": "Ranganna Aclaíochta Grúpa",
-          "image_url": "/images/group-fitness-classes.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/group-fitness-classes.jpg"
         },
         {
           "name": "Cóitseáil Cothaithe",
-          "image_url": "/images/nutrition-coaching.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/nutrition-coaching.jpg"
         },
         {
           "name": "Campaí Tosaithe Allamuigh",
-          "image_url": "/images/outdoor-boot-camps.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/outdoor-boot-camps.jpg"
         },
         {
           "name": "Oiliúint Phearsanta",
-          "image_url": "/images/personal-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/personal-training.jpg"
         },
         {
           "name": "Cóitseáil Aclaíochta Fíorúil",
-          "image_url": "/images/virtual-fitness-coaching.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/virtual-fitness-coaching.jpg"
         },
         {
           "name": "Seisiúin Yoga & Pilates",
-          "image_url": "/images/yoga-pilates-sessions.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/yoga-pilates-sessions.jpg"
         }
       ]
     },
     {
       "category": "Seachadadh Bia & Grósaera",
-      "category_image_url": "/images/Food-Grocery-Delivery.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Food-Grocery-Delivery.jpg",
       "subcategories": [
         {
           "name": "Seachadadh Alcóil",
-          "image_url": "/images/alcohol-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/alcohol-delivery.jpg"
         },
         {
           "name": "Seachadadh Bácúis & Taosráin",
-          "image_url": "/images/bakery-pastry-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bakery-pastry-delivery.jpg"
         },
         {
           "name": "Seachadadh Feirme Áitiúil & Táirgí Úra",
-          "image_url": "/images/local-farm-fresh-produce-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/local-farm-fresh-produce-delivery.jpg"
         },
         {
           "name": "Trealamh Bia & Béilí Réamhullmhaithe",
-          "image_url": "/images/meal-kits-prepared-meals.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/meal-kits-prepared-meals.jpg"
         },
         {
           "name": "Seachadadh Aiste Bia Speisialta (Véigeán, Saor ó Ghlútan)",
-          "image_url": "/images/specialty-diet-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/specialty-diet-delivery.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Rialtais & Riaracháin",
-      "category_image_url": "/images/Government-Administrative-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Government-Administrative-Services.jpg",
       "subcategories": [
         {
           "name": "Clárú & Ceadúnú Gnó",
-          "image_url": "/images/business-registration-licensing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/business-registration-licensing.jpg"
         },
         {
           "name": "Comhairliúchán Deontais & Maoinithe AE",
-          "image_url": "/images/eu-grant-funding-consulting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/eu-grant-funding-consulting.jpg"
         },
         {
           "name": "Seirbhísí Nótaire Poiblí",
-          "image_url": "/images/notary-public-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/notary-public-services.jpg"
         },
         {
           "name": "Aistriúchán & Deimhniú Doiciméad",
-          "image_url": "/images/translation-document-certification.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/translation-document-certification.jpg"
         },
         {
           "name": "Comhairliúchán Víosa & Inimirce",
-          "image_url": "/images/visa-immigration-consulting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/visa-immigration-consulting.jpg"
         }
       ]
     },
     {
       "category": "Fearas & Deisiúcháin",
-      "category_image_url": "/images/handyman-repairs.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/handyman-repairs.jpg",
       "subcategories": [
         {
           "name": "Suiteáil Cuirtíní agus Dallóga",
-          "image_url": "/images/curtain-blind-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/curtain-blind-installation.jpg"
         },
         {
           "name": "Tionól Troscáin",
-          "image_url": "/images/furniture-assembly.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furniture-assembly.jpg"
         },
         {
           "name": "Deisiúcháin Balla Beaga",
-          "image_url": "/images/small-wall-repairs.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/small-wall-repairs.jpg"
         },
         {
           "name": "Suiteáil Teilifíse",
-          "image_url": "/images/tv-mounting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tv-mounting.jpg"
         }
       ]
     },
     {
       "category": "Cúram Sláinte & Folláine",
-      "category_image_url": "/images/Healthcare-Wellness.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Healthcare-Wellness.jpg",
       "subcategories": [
         {
           "name": "Teiripe Malartach (Acupuncture, Homeopathy)",
-          "image_url": "/images/alternative-therapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/alternative-therapy.jpg"
         },
         {
           "name": "Fisiteiripe Baile",
-          "image_url": "/images/at-home-physiotherapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/at-home-physiotherapy.jpg"
         },
         {
           "name": "Cúram Seanóirí & Cúnamh Soghluaisteachta",
-          "image_url": "/images/elderly-care-mobility-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/elderly-care-mobility-assistance.jpg"
         },
         {
           "name": "Altranas Baile & Tacaíocht Leighis",
-          "image_url": "/images/home-nursing-medical-support.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-nursing-medical-support.jpg"
         },
         {
           "name": "Teiripe Suathaireachta",
-          "image_url": "/images/massage-therapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/massage-therapy.jpg"
         },
         {
           "name": "Comhairleoireacht Sláinte Meabhrach",
-          "image_url": "/images/mental-health-counseling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mental-health-counseling.jpg"
         },
         {
           "name": "Seirbhísí Athshlánaithe",
-          "image_url": "/images/rehabilitation-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rehabilitation-services.jpg"
         },
         {
           "name": "Comhairliúcháin Teileashláinte",
-          "image_url": "/images/telehealth-consultations.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/telehealth-consultations.jpg"
         }
       ]
     },
     {
       "category": "Glantachán & Cothabháil Baile",
-      "image_url": "/images/Home Cleaning & Maintenance.jpg",
+      "image_url": "/image/upload/c_thumb,w_200,g_face/Home Cleaning & Maintenance.jpg",
       "subcategories": [
         {
           "name": "Glantachán Seomra Folctha",
-          "image_url": "/images/Bathroom Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Bathroom Cleaning.jpg"
         },
         {
           "name": "Glantachán Cairpéad & Troscáin",
-          "image_url": "/images/Carpet & Upholstery Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Carpet & Upholstery Cleaning.jpg"
         },
         {
           "name": "Glantachán Cairpéad",
-          "image_url": "/images/Carpet Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Carpet Cleaning.jpg"
         },
         {
           "name": "Glantachán Simléir",
-          "image_url": "/images/Chimney Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Chimney Cleaning.jpg"
         },
         {
           "name": "Scuabadh Simléir",
-          "image_url": "/images/Chimney Sweeping.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Chimney Sweeping.jpg"
         },
         {
           "name": "Glantachán Domhain",
-          "image_url": "/images/Deep Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Deep Cleaning.jpg"
         },
         {
           "name": "Seirbhísí Díghalraithe",
-          "image_url": "/images/Disinfection Services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Disinfection Services.jpg"
         },
         {
           "name": "Glantachán Éicea-chairdiúil",
-          "image_url": "/images/Eco-Friendly Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Eco-Friendly Cleaning.jpg"
         },
         {
           "name": "Glantachán Ginearálta",
-          "image_url": "/images/General Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/General Cleaning.jpg"
         },
         {
           "name": "Glantachán Gáitéar",
-          "image_url": "/images/Gutter Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Gutter Cleaning.jpg"
         },
         {
           "name": "Glantachán Cistine",
-          "image_url": "/images/Kitchen Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Kitchen Cleaning.jpg"
         },
         {
           "name": "Níochán & Iarann",
-          "image_url": "/images/Laundry & Ironing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Laundry & Ironing.jpg"
         },
         {
           "name": "Glantachán Seomra Suí/Seomra Leapa",
-          "image_url": "/images/Living Room_Bedroom Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Living Room_Bedroom Cleaning.jpg"
         },
         {
           "name": "Glantachán Bogadh Isteach/Bogadh Amach",
-          "image_url": "/images/Move-In_Move-Out Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Move-In_Move-Out Cleaning.jpg"
         },
         {
           "name": "Níochán Brú",
-          "image_url": "/images/Pressure Washing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Pressure Washing.jpg"
         },
         {
           "name": "Glantachán Tí Rialta",
-          "image_url": "/images/Regular House Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Regular House Cleaning.jpg"
         },
         {
           "name": "Glantachán Troscáin",
-          "image_url": "/images/Upholstery Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Upholstery Cleaning.jpg"
         },
         {
           "name": "Eagrú Wardrobe",
-          "image_url": "/images/Wardrobe Organization.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Wardrobe Organization.jpg"
         },
         {
           "name": "Glantachán Fuinneoige",
-          "image_url": "/images/Window Cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/Window Cleaning.jpg"
         }
       ]
     },
     {
       "category": "Feabhsú & Dearadh Baile",
-      "category_image_url": "/images/Home-Improvement-Design.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Home-Improvement-Design.jpg",
       "subcategories": [
         {
           "name": "Siúinéireacht & Adhmadóireacht Saincheaptha",
-          "image_url": "/images/custom-carpentry-woodworking.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/custom-carpentry-woodworking.jpg"
         },
         {
           "name": "Tionól & Suiteáil Troscáin",
-          "image_url": "/images/furniture-assembly-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furniture-assembly-installation.jpg"
         },
         {
           "name": "Dearadh & Eagrú Oifige Baile",
-          "image_url": "/images/home-office-design-organization.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-office-design-organization.jpg"
         },
         {
           "name": "Pleanáil Athchóirithe Baile",
-          "image_url": "/images/home-renovation-planning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-renovation-planning.jpg"
         },
         {
           "name": "Comhairliúcháin Dearaidh Intí",
-          "image_url": "/images/interior-design-consultations.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/interior-design-consultations.jpg"
         },
         {
           "name": "Suiteáil & Suiteáil Baile Cliste",
-          "image_url": "/images/smart-home-setup-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/smart-home-setup-installation.jpg"
         }
       ]
     },
     {
       "category": "Slándáil Baile",
-      "category_image_url": "/images/home-security.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/home-security.jpg",
       "subcategories": [
         {
           "name": "Suiteáil Córas Aláraim",
-          "image_url": "/images/alarm-system-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/alarm-system-installation.jpg"
         },
         {
           "name": "Cothabháil Córas Aláraim",
-          "image_url": "/images/alarm-system-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/alarm-system-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Córas Aláraim",
-          "image_url": "/images/alarm-system-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/alarm-system-repair.jpg"
         },
         {
           "name": "Suiteáil Braiteoir Dorais",
-          "image_url": "/images/door-sensor-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/door-sensor-installation.jpg"
         },
         {
           "name": "Cothabháil Braiteoir Dorais",
-          "image_url": "/images/door-sensor-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/door-sensor-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Braiteoir Dorais",
-          "image_url": "/images/door-sensor-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/door-sensor-repair.jpg"
         },
         {
           "name": "Suiteáil Córas Idirchumarsáide",
-          "image_url": "/images/intercom-system-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/intercom-system-installation.jpg"
         },
         {
           "name": "Cothabháil Córas Idirchumarsáide",
-          "image_url": "/images/intercom-system-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/intercom-system-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Córas Idirchumarsáide",
-          "image_url": "/images/intercom-system-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/intercom-system-repair.jpg"
         },
         {
           "name": "Suiteáil Braiteoir Gluaisne",
-          "image_url": "/images/motion-sensor-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/motion-sensor-installation.jpg"
         },
         {
           "name": "Cothabháil Braiteoir Gluaisne",
-          "image_url": "/images/motion-sensor-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/motion-sensor-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Braiteoir Gluaisne",
-          "image_url": "/images/motion-sensor-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/motion-sensor-repair.jpg"
         },
         {
           "name": "Suiteáil Ceamara Slándála",
-          "image_url": "/images/security-camera-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-camera-installation.jpg"
         },
         {
           "name": "Cothabháil Ceamara Slándála",
-          "image_url": "/images/security-camera-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-camera-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Ceamara Slándála",
-          "image_url": "/images/security-camera-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-camera-repair.jpg"
         },
         {
           "name": "Cothabháil Córas Slándála",
-          "image_url": "/images/security-system-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-system-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Córas Slándála",
-          "image_url": "/images/security-system-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-system-repair.jpg"
         },
         {
           "name": "Suiteáil Glas Cliste",
-          "image_url": "/images/smart-lock-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/smart-lock-installation.jpg"
         },
         {
           "name": "Cothabháil Glas Cliste",
-          "image_url": "/images/smart-lock-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/smart-lock-maintenance.jpg"
         },
         {
           "name": "Deisiúchán Glas Cliste",
-          "image_url": "/images/smart-lock-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/smart-lock-repair.jpg"
         }
       ]
     },
     {
       "category": "Cothabháil HVAC",
-      "category_image_url": "/images/hvac-maintenance.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/hvac-maintenance.jpg",
       "subcategories": [
         {
           "name": "Suiteáil Aerchóirithe",
-          "image_url": "/images/air-conditioning-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/air-conditioning-installation.jpg"
         },
         {
           "name": "Suiteáil Íonaitheoir Aeir",
-          "image_url": "/images/air-purifier-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/air-purifier-installation.jpg"
         },
         {
           "name": "Tástáil Cáilíochta Aeir",
-          "image_url": "/images/air-quality-testing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/air-quality-testing.jpg"
         },
         {
           "name": "Cothabháil Coire",
-          "image_url": "/images/boiler-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/boiler-maintenance.jpg"
         },
         {
           "name": "Suiteáil Dí-umiditheoir",
-          "image_url": "/images/dehumidifier-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dehumidifier-installation.jpg"
         },
         {
           "name": "Glantachán Ducht",
-          "image_url": "/images/duct-cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/duct-cleaning.jpg"
         },
         {
           "name": "Deisiúchán Ducht",
-          "image_url": "/images/duct-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/duct-repair.jpg"
         },
         {
           "name": "Suiteáil Foirmneoir",
-          "image_url": "/images/furnace-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furnace-installation.jpg"
         },
         {
           "name": "Deisiúchán Foirmneoir",
-          "image_url": "/images/furnace-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furnace-repair.jpg"
         },
         {
           "name": "Suiteáil Caidéal Teasa",
-          "image_url": "/images/heat-pump-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/heat-pump-installation.jpg"
         },
         {
           "name": "Deisiúchán Caidéal Teasa",
-          "image_url": "/images/heat-pump-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/heat-pump-repair.jpg"
         },
         {
           "name": "Suiteáil Humidifier",
-          "image_url": "/images/humidifier-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/humidifier-installation.jpg"
         },
         {
           "name": "Cothabháil HVAC",
-          "image_url": "/images/hvac-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hvac-maintenance.jpg"
         },
         {
           "name": "Deisiúchán HVAC",
-          "image_url": "/images/hvac-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hvac-repair.jpg"
         },
         {
           "name": "Suiteáil Teirmeastat",
-          "image_url": "/images/thermostat-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/thermostat-installation.jpg"
         },
         {
           "name": "Deisiúchán Teirmeastat",
-          "image_url": "/images/thermostat-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/thermostat-repair.jpg"
         },
         {
           "name": "Suiteáil Aerála",
-          "image_url": "/images/ventilation-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ventilation-installation.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Dlí & Airgeadais",
-      "category_image_url": "/images/Legal-Financial-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Legal-Financial-Services.jpg",
       "subcategories": [
         {
           "name": "Cuntasaíocht & Comhdú Cánach",
-          "image_url": "/images/accounting-tax-filing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/accounting-tax-filing.jpg"
         },
         {
           "name": "Comhairliúchán Comhlíonta AE & GDPR",
-          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/eu-compliance-gdpr-consulting.jpg"
         },
         {
           "name": "Seirbhísí AD & Earcaíochta",
-          "image_url": "/images/hr-recruitment-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hr-recruitment-services.jpg"
         },
         {
           "name": "Comhairliúcháin Dlí",
-          "image_url": "/images/legal-consultations.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/legal-consultations.jpg"
         },
         {
           "name": "Seirbhísí Margaíochta & Brandála",
-          "image_url": "/images/marketing-branding-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/marketing-branding-services.jpg"
         },
         {
           "name": "Scríbhneoireacht Atosaigh & Cóitseáil Gairme",
-          "image_url": "/images/resume-writing-career-coaching.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/resume-writing-career-coaching.jpg"
         }
       ]
     },
     {
       "category": "Lóistíocht & Bogadh",
-      "category_image_url": "/images/Logistics-Moving.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Logistics-Moving.jpg",
       "subcategories": [
         {
           "name": "Tionól Troscáin",
-          "image_url": "/images/furniture-assembly.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furniture-assembly.jpg"
         },
         {
           "name": "Bogadh Idirnáisiúnta & Athlonnú",
-          "image_url": "/images/international-moving-relocation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/international-moving-relocation.jpg"
         },
         {
           "name": "Seirbhísí Pacála & Díphacála",
-          "image_url": "/images/packing-unpacking-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/packing-unpacking-services.jpg"
         },
         {
           "name": "Réitigh Stórála Gearrthéarmacha",
-          "image_url": "/images/short-term-storage-solutions.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/short-term-storage-solutions.jpg"
         },
         {
           "name": "Cíos Feithicle (Vans, Trucks)",
-          "image_url": "/images/vehicle-rental-vans-trucks.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/vehicle-rental-vans-trucks.jpg"
         }
       ]
     },
     {
       "category": "Bogadh & Athlonnú",
-      "category_image_url": "/images/moving-relocation.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/moving-relocation.jpg",
       "subcategories": [
         {
           "name": "Seirbhísí Cúiréireachta",
-          "image_url": "/images/courier-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/courier-services.jpg"
         },
         {
           "name": "Seachadadh Troscáin",
-          "image_url": "/images/furniture-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/furniture-delivery.jpg"
         },
         {
           "name": "Bogadh Idirnáisiúnta",
-          "image_url": "/images/international-moving.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/international-moving.jpg"
         },
         {
           "name": "Bogadh Áitiúil",
-          "image_url": "/images/local-moving.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/local-moving.jpg"
         },
         {
           "name": "Bogadh Fad-achair",
-          "image_url": "/images/long-distance-moving.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/long-distance-moving.jpg"
         },
         {
           "name": "Seirbhísí Pacála",
-          "image_url": "/images/packing-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/packing-services.jpg"
         },
         {
           "name": "Iompar Lucht Beag",
-          "image_url": "/images/small-load-transport.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/small-load-transport.jpg"
         }
       ]
     },
     {
       "category": "Lasmuigh & Garraíodóireacht",
-      "category_image_url": "/images/outdoor-gardening.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/outdoor-gardening.jpg",
       "subcategories": [
         {
           "name": "Deisiúchán Deic",
-          "image_url": "/images/deck-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/deck-repair.jpg"
         },
         {
           "name": "Suiteáil Fál",
-          "image_url": "/images/fence-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/fence-installation.jpg"
         },
         {
           "name": "Cothabháil Gairdín",
-          "image_url": "/images/garden-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/garden-maintenance.jpg"
         },
         {
           "name": "Bearradh Sceach",
-          "image_url": "/images/hedge-trimming.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hedge-trimming.jpg"
         },
         {
           "name": "Suiteáil Córas Uisciúcháin",
-          "image_url": "/images/irrigation-system-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/irrigation-system-installation.jpg"
         },
         {
           "name": "Lomadh Faiche",
-          "image_url": "/images/lawn-mowing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/lawn-mowing.jpg"
         },
         {
           "name": "Suiteáil Soilsiú Lasmuigh",
-          "image_url": "/images/outdoor-lighting-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/outdoor-lighting-installation.jpg"
         },
         {
           "name": "Bearradh Crann",
-          "image_url": "/images/tree-pruning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tree-pruning.jpg"
         }
       ]
     },
     {
       "category": "Péinteáil & Athchóiriú",
-      "category_image_url": "/images/painting-renovation.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/painting-renovation.jpg",
       "subcategories": [
         {
           "name": "Athchóiriú Seomra Folctha",
-          "image_url": "/images/bathroom-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bathroom-remodeling.jpg"
         },
         {
           "name": "Tógáil Deic agus Póirse",
-          "image_url": "/images/deck-patio-building.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/deck-patio-building.jpg"
         },
         {
           "name": "Péinteáil Lasmuigh",
-          "image_url": "/images/exterior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/exterior-painting.jpg"
         },
         {
           "name": "Péinteáil Intí",
-          "image_url": "/images/interior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/interior-painting.jpg"
         },
         {
           "name": "Athchóiriú Cistine",
-          "image_url": "/images/kitchen-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/kitchen-remodeling.jpg"
         }
       ]
     },
     {
       "category": "Rialú Lotnaidí",
-      "category_image_url": "/images/pest-control.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/pest-control.jpg",
       "subcategories": [
         {
           "name": "Rialú Seangán",
-          "image_url": "/images/ant-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ant-control.jpg"
         },
         {
           "name": "Cóireáil Leaba Leaba",
-          "image_url": "/images/bed-bug-treatment.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bed-bug-treatment.jpg"
         },
         {
           "name": "Rialú Beach",
-          "image_url": "/images/bee-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bee-control.jpg"
         },
         {
           "name": "Rialú Ciaróg",
-          "image_url": "/images/beetle-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/beetle-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/centipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/centipede-control.jpg"
         },
         {
           "name": "Rialú Cockroach",
-          "image_url": "/images/cockroach-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/cockroach-control.jpg"
         },
         {
           "name": "Rialú Cluasán",
-          "image_url": "/images/earwig-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/earwig-control.jpg"
         },
         {
           "name": "Rialú Dreancaidí",
-          "image_url": "/images/flea-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/flea-control.jpg"
         },
         {
           "name": "Rialú Cuileog",
-          "image_url": "/images/fly-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/fly-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/millipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/millipede-control.jpg"
         },
         {
           "name": "Rialú Mosquito",
-          "image_url": "/images/mosquito-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mosquito-control.jpg"
         },
         {
           "name": "Rialú Leamhan",
-          "image_url": "/images/moth-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/moth-control.jpg"
         },
         {
           "name": "Rialú Luch",
-          "image_url": "/images/rodent-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rodent-control.jpg"
         },
         {
           "name": "Rialú Silverfish",
-          "image_url": "/images/silverfish-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/silverfish-control.jpg"
         },
         {
           "name": "Rialú Damhán Alla",
-          "image_url": "/images/spider-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/spider-control.jpg"
         },
         {
           "name": "Rialú Termite",
-          "image_url": "/images/termite-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/termite-control.jpg"
         },
         {
           "name": "Rialú Foiche",
-          "image_url": "/images/wasp-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/wasp-control.jpg"
         },
         {
           "name": "Rialú Weevil",
-          "image_url": "/images/weevil-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/weevil-control.jpg"
         }
       ]
     },
     {
       "category": "Pearsanta & Stíl Mhaireachtála",
-      "category_image_url": "/images/personal-lifestyle.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/personal-lifestyle.jpg",
       "subcategories": [
         {
           "name": "Babysitting",
-          "image_url": "/images/babysitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/babysitting.jpg"
         },
         {
           "name": "Smideadh Bridal",
-          "image_url": "/images/bridal-makeup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bridal-makeup.jpg"
         },
         {
           "name": "Cúram Dementia",
-          "image_url": "/images/dementia-care.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dementia-care.jpg"
         },
         {
           "name": "Siúl Madraí",
-          "image_url": "/images/dog-walking.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dog-walking.jpg"
         },
         {
           "name": "Stíliú Gruaige",
-          "image_url": "/images/hair-styling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hair-styling.jpg"
         },
         {
           "name": "Teiripe Suathaireachta",
-          "image_url": "/images/massage-therapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/massage-therapy.jpg"
         },
         {
           "name": "Ullmhúchán Béile",
-          "image_url": "/images/meal-preparation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/meal-preparation.jpg"
         },
         {
           "name": "Cúnamh Soghluaisteachta",
-          "image_url": "/images/mobility-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mobility-assistance.jpg"
         },
         {
           "name": "Cúram Ingne",
-          "image_url": "/images/nail-care.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/nail-care.jpg"
         },
         {
           "name": "Seirbhísí Nanny",
-          "image_url": "/images/nanny-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/nanny-services.jpg"
         },
         {
           "name": "Oiliúint Phearsanta",
-          "image_url": "/images/personal-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/personal-training.jpg"
         },
         {
           "name": "Grooming Peataí",
-          "image_url": "/images/pet-grooming.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-grooming.jpg"
         },
         {
           "name": "Seirbhísí Peataí",
-          "image_url": "/images/pet-sitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-sitting.jpg"
         },
         {
           "name": "Fisiteiripe",
-          "image_url": "/images/physiotherapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/physiotherapy.jpg"
         },
         {
           "name": "Teagasc",
-          "image_url": "/images/tutoring.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tutoring.jpg"
         },
         {
           "name": "Cuairteanna Tréidliachta",
-          "image_url": "/images/veterinary-visits.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/veterinary-visits.jpg"
         },
         {
           "name": "Teagasc Yoga",
-          "image_url": "/images/yoga-instruction.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/yoga-instruction.jpg"
         }
       ]
     },
     {
       "category": "Cúram Pearsanta & Áilleacht",
-      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Personal-Care-Beauty.jpg",
       "subcategories": [
         {
           "name": "Cóireálacha Spa & Folláine Baile",
-          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/at-home-spa-wellness-treatments.jpg"
         },
         {
           "name": "Gearrthóga Gruaige & Stíliú",
-          "image_url": "/images/haircuts-styling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/haircuts-styling.jpg"
         },
         {
           "name": "Ealaín Smididh",
-          "image_url": "/images/makeup-artistry.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/makeup-artistry.jpg"
         },
         {
           "name": "Manicure & Pedicure",
-          "image_url": "/images/manicure-pedicure.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/manicure-pedicure.jpg"
         },
         {
           "name": "Cóireálacha Cúram Craicinn",
-          "image_url": "/images/skincare-treatments.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/skincare-treatments.jpg"
         },
         {
           "name": "Seirbhísí Tatú & Piercing",
-          "image_url": "/images/tattoo-piercing-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tattoo-piercing-services.jpg"
         }
       ]
     },
     {
       "category": "Cúram Peataí",
-      "category_image_url": "/images/Pet-Care.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Pet-Care.jpg",
       "subcategories": [
         {
           "name": "Siúl Madraí",
-          "image_url": "/images/dog-walking.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dog-walking.jpg"
         },
         {
           "name": "Grooming (Bathing, Gearradh Ingne)",
-          "image_url": "/images/grooming.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/grooming.jpg"
         },
         {
           "name": "Seirbhísí Peataí",
-          "image_url": "/images/pet-sitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-sitting.jpg"
         },
         {
           "name": "Oiliúint Peataí (Obedience, Iompraíochta)",
-          "image_url": "/images/pet-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-training.jpg"
         },
         {
           "name": "Iompar Peataí",
-          "image_url": "/images/pet-transportation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-transportation.jpg"
         },
         {
           "name": "Cuairteanna Tréidliachta Baile",
-          "image_url": "/images/veterinary-home-visits.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/veterinary-home-visits.jpg"
         }
       ]
     },
     {
       "category": "Péinteáil & Athchóiriú",
-      "category_image_url": "/images/painting-renovation.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/painting-renovation.jpg",
       "subcategories": [
         {
           "name": "Athchóiriú Seomra Folctha",
-          "image_url": "/images/bathroom-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bathroom-remodeling.jpg"
         },
         {
           "name": "Tógáil Deic agus Póirse",
-          "image_url": "/images/deck-patio-building.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/deck-patio-building.jpg"
         },
         {
           "name": "Péinteáil Lasmuigh",
-          "image_url": "/images/exterior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/exterior-painting.jpg"
         },
         {
           "name": "Péinteáil Intí",
-          "image_url": "/images/interior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/interior-painting.jpg"
         },
         {
           "name": "Athchóiriú Cistine",
-          "image_url": "/images/kitchen-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/kitchen-remodeling.jpg"
         }
       ]
     },
     {
       "category": "Rialú Lotnaidí",
-      "category_image_url": "/images/pest-control.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/pest-control.jpg",
       "subcategories": [
         {
           "name": "Rialú Seangán",
-          "image_url": "/images/ant-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ant-control.jpg"
         },
         {
           "name": "Cóireáil Leaba Leaba",
-          "image_url": "/images/bed-bug-treatment.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bed-bug-treatment.jpg"
         },
         {
           "name": "Rialú Beach",
-          "image_url": "/images/bee-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bee-control.jpg"
         },
         {
           "name": "Rialú Ciaróg",
-          "image_url": "/images/beetle-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/beetle-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/centipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/centipede-control.jpg"
         },
         {
           "name": "Rialú Cockroach",
-          "image_url": "/images/cockroach-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/cockroach-control.jpg"
         },
         {
           "name": "Rialú Cluasán",
-          "image_url": "/images/earwig-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/earwig-control.jpg"
         },
         {
           "name": "Rialú Dreancaidí",
-          "image_url": "/images/flea-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/flea-control.jpg"
         },
         {
           "name": "Rialú Cuileog",
-          "image_url": "/images/fly-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/fly-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/millipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/millipede-control.jpg"
         },
         {
           "name": "Rialú Mosquito",
-          "image_url": "/images/mosquito-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mosquito-control.jpg"
         },
         {
           "name": "Rialú Leamhan",
-          "image_url": "/images/moth-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/moth-control.jpg"
         },
         {
           "name": "Rialú Luch",
-          "image_url": "/images/rodent-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rodent-control.jpg"
         },
         {
           "name": "Rialú Silverfish",
-          "image_url": "/images/silverfish-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/silverfish-control.jpg"
         },
         {
           "name": "Rialú Damhán Alla",
-          "image_url": "/images/spider-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/spider-control.jpg"
         },
         {
           "name": "Rialú Termite",
-          "image_url": "/images/termite-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/termite-control.jpg"
         },
         {
           "name": "Rialú Foiche",
-          "image_url": "/images/wasp-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/wasp-control.jpg"
         },
         {
           "name": "Rialú Weevil",
-          "image_url": "/images/weevil-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/weevil-control.jpg"
         }
       ]
     },
     {
       "category": "Pearsanta & Stíl Mhaireachtála",
-      "category_image_url": "/images/personal-lifestyle.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/personal-lifestyle.jpg",
       "subcategories": [
         {
           "name": "Babysitting",
-          "image_url": "/images/babysitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/babysitting.jpg"
         },
         {
           "name": "Smideadh Bridal",
-          "image_url": "/images/bridal-makeup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bridal-makeup.jpg"
         },
         {
           "name": "Cúram Dementia",
-          "image_url": "/images/dementia-care.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dementia-care.jpg"
         },
         {
           "name": "Siúl Madraí",
-          "image_url": "/images/dog-walking.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dog-walking.jpg"
         },
         {
           "name": "Stíliú Gruaige",
-          "image_url": "/images/hair-styling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hair-styling.jpg"
         },
         {
           "name": "Teiripe Suathaireachta",
-          "image_url": "/images/massage-therapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/massage-therapy.jpg"
         },
         {
           "name": "Ullmhúchán Béile",
-          "image_url": "/images/meal-preparation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/meal-preparation.jpg"
         },
         {
           "name": "Cúnamh Soghluaisteachta",
-          "image_url": "/images/mobility-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mobility-assistance.jpg"
         },
         {
           "name": "Cúram Ingne",
-          "image_url": "/images/nail-care.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/nail-care.jpg"
         },
         {
           "name": "Seirbhísí Nanny",
-          "image_url": "/images/nanny-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/nanny-services.jpg"
         },
         {
           "name": "Oiliúint Phearsanta",
-          "image_url": "/images/personal-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/personal-training.jpg"
         },
         {
           "name": "Grooming Peataí",
-          "image_url": "/images/pet-grooming.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-grooming.jpg"
         },
         {
           "name": "Seirbhísí Peataí",
-          "image_url": "/images/pet-sitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-sitting.jpg"
         },
         {
           "name": "Fisiteiripe",
-          "image_url": "/images/physiotherapy.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/physiotherapy.jpg"
         },
         {
           "name": "Teagasc",
-          "image_url": "/images/tutoring.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tutoring.jpg"
         },
         {
           "name": "Cuairteanna Tréidliachta",
-          "image_url": "/images/veterinary-visits.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/veterinary-visits.jpg"
         },
         {
           "name": "Teagasc Yoga",
-          "image_url": "/images/yoga-instruction.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/yoga-instruction.jpg"
         }
       ]
     },
     {
       "category": "Cúram Pearsanta & Áilleacht",
-      "category_image_url": "/images/Personal-Care-Beauty.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Personal-Care-Beauty.jpg",
       "subcategories": [
         {
           "name": "Cóireálacha Spa & Folláine Baile",
-          "image_url": "/images/at-home-spa-wellness-treatments.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/at-home-spa-wellness-treatments.jpg"
         },
         {
           "name": "Gearrthóga Gruaige & Stíliú",
-          "image_url": "/images/haircuts-styling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/haircuts-styling.jpg"
         },
         {
           "name": "Ealaín Smididh",
-          "image_url": "/images/makeup-artistry.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/makeup-artistry.jpg"
         },
         {
           "name": "Manicure & Pedicure",
-          "image_url": "/images/manicure-pedicure.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/manicure-pedicure.jpg"
         },
         {
           "name": "Cóireálacha Cúram Craicinn",
-          "image_url": "/images/skincare-treatments.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/skincare-treatments.jpg"
         },
         {
           "name": "Seirbhísí Tatú & Piercing",
-          "image_url": "/images/tattoo-piercing-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tattoo-piercing-services.jpg"
         }
       ]
     },
     {
       "category": "Cúram Peataí",
-      "category_image_url": "/images/Pet-Care.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Pet-Care.jpg",
       "subcategories": [
         {
           "name": "Siúl Madraí",
-          "image_url": "/images/dog-walking.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/dog-walking.jpg"
         },
         {
           "name": "Grooming (Bathing, Gearradh Ingne)",
-          "image_url": "/images/grooming.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/grooming.jpg"
         },
         {
           "name": "Seirbhísí Peataí",
-          "image_url": "/images/pet-sitting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-sitting.jpg"
         },
         {
           "name": "Oiliúint Peataí (Obedience, Iompraíochta)",
-          "image_url": "/images/pet-training.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-training.jpg"
         },
         {
           "name": "Iompar Peataí",
-          "image_url": "/images/pet-transportation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-transportation.jpg"
         },
         {
           "name": "Cuairteanna Tréidliachta Baile",
-          "image_url": "/images/veterinary-home-visits.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/veterinary-home-visits.jpg"
         }
       ]
     },
     {
       "category": "Péinteáil & Athchóiriú",
-      "category_image_url": "/images/painting-renovation.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/painting-renovation.jpg",
       "subcategories": [
         {
           "name": "Athchóiriú Seomra Folctha",
-          "image_url": "/images/bathroom-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bathroom-remodeling.jpg"
         },
         {
           "name": "Tógáil Deic agus Póirse",
-          "image_url": "/images/deck-patio-building.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/deck-patio-building.jpg"
         },
         {
           "name": "Péinteáil Lasmuigh",
-          "image_url": "/images/exterior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/exterior-painting.jpg"
         },
         {
           "name": "Péinteáil Intí",
-          "image_url": "/images/interior-painting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/interior-painting.jpg"
         },
         {
           "name": "Athchóiriú Cistine",
-          "image_url": "/images/kitchen-remodeling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/kitchen-remodeling.jpg"
         }
       ]
     },
     {
       "category": "Rialú Lotnaidí",
-      "category_image_url": "/images/pest-control.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/pest-control.jpg",
       "subcategories": [
         {
           "name": "Rialú Seangán",
-          "image_url": "/images/ant-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ant-control.jpg"
         },
         {
           "name": "Cóireáil Leaba Leaba",
-          "image_url": "/images/bed-bug-treatment.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bed-bug-treatment.jpg"
         },
         {
           "name": "Rialú Beach",
-          "image_url": "/images/bee-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bee-control.jpg"
         },
         {
           "name": "Rialú Ciaróg",
-          "image_url": "/images/beetle-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/beetle-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/centipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/centipede-control.jpg"
         },
         {
           "name": "Rialú Cockroach",
-          "image_url": "/images/cockroach-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/cockroach-control.jpg"
         },
         {
           "name": "Rialú Cluasán",
-          "image_url": "/images/earwig-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/earwig-control.jpg"
         },
         {
           "name": "Rialú Dreancaidí",
-          "image_url": "/images/flea-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/flea-control.jpg"
         },
         {
           "name": "Rialú Cuileog",
-          "image_url": "/images/fly-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/fly-control.jpg"
         },
         {
           "name": "Rialú Péisteanna",
-          "image_url": "/images/millipede-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/millipede-control.jpg"
         },
         {
           "name": "Rialú Mosquito",
-          "image_url": "/images/mosquito-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/mosquito-control.jpg"
         },
         {
           "name": "Rialú Leamhan",
-          "image_url": "/images/moth-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/moth-control.jpg"
         },
         {
           "name": "Rialú Luch",
-          "image_url": "/images/rodent-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rodent-control.jpg"
         },
         {
           "name": "Rialú Silverfish",
-          "image_url": "/images/silverfish-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/silverfish-control.jpg"
         },
         {
           "name": "Rialú Damhán Alla",
-          "image_url": "/images/spider-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/spider-control.jpg"
         },
         {
           "name": "Rialú Termite",
-          "image_url": "/images/termite-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/termite-control.jpg"
         },
         {
           "name": "Rialú Foiche",
-          "image_url": "/images/wasp-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/wasp-control.jpg"
         },
         {
           "name": "Rialú Weevil",
-          "image_url": "/images/weevil-control.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/weevil-control.jpg"
         }
       ]
     },
     {
       "category": "Pluiméireacht & Leictreach",
-      "category_image_url": "/images/plumbing-electrical.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/plumbing-electrical.jpg",
       "subcategories": [
         {
           "name": "Athsholáthar Briseadh Ciorcaid",
-          "image_url": "/images/circuit-breaker-replacement.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/circuit-breaker-replacement.jpg"
         },
         {
           "name": "Glantachán Draein",
-          "image_url": "/images/drain-cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/drain-cleaning.jpg"
         },
         {
           "name": "Sreangú Leictreach",
-          "image_url": "/images/electrical-wiring.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/electrical-wiring.jpg"
         },
         {
           "name": "Deisiúchán Faucet agus Doirteal",
-          "image_url": "/images/faucet-sink-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/faucet-sink-repair.jpg"
         },
         {
           "name": "Socrúchán Uathoibrithe Baile",
-          "image_url": "/images/home-automation-setup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-automation-setup.jpg"
         },
         {
           "name": "Brath agus Deisiúchán Sceitheadh",
-          "image_url": "/images/leak-detection-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/leak-detection-repair.jpg"
         },
         {
           "name": "Suiteáil Soilsiú",
-          "image_url": "/images/lighting-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/lighting-installation.jpg"
         },
         {
           "name": "Suiteáil Radaitheora",
-          "image_url": "/images/radiator-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/radiator-installation.jpg"
         },
         {
           "name": "Socrúchán Painéal Gréine",
-          "image_url": "/images/solar-panel-setup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/solar-panel-setup.jpg"
         },
         {
           "name": "Deisiúchán agus Suiteáil Leithris",
-          "image_url": "/images/toilet-repair-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/toilet-repair-installation.jpg"
         },
         {
           "name": "Deisiúchán Téitheoir Uisce",
-          "image_url": "/images/water-heater-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/water-heater-repair.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Gairmiúla & Gnó",
-      "category_image_url": "/images/Professional-Business-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Professional-Business-Services.jpg",
       "subcategories": [
         {
           "name": "Cuntasaíocht & Comhdú Cánach",
-          "image_url": "/images/accounting-tax-filing.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/accounting-tax-filing.jpg"
         },
         {
           "name": "Comhairliúchán Comhlíonta AE & GDPR",
-          "image_url": "/images/eu-compliance-gdpr-consulting.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/eu-compliance-gdpr-consulting.jpg"
         },
         {
           "name": "Seirbhísí AD & Earcaíochta",
-          "image_url": "/images/hr-recruitment-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/hr-recruitment-services.jpg"
         },
         {
           "name": "Comhairliúcháin Dlí",
-          "image_url": "/images/legal-consultations.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/legal-consultations.jpg"
         },
         {
           "name": "Seirbhísí Margaíochta & Brandála",
-          "image_url": "/images/marketing-branding-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/marketing-branding-services.jpg"
         },
         {
           "name": "Scríbhneoireacht Atosaigh & Cóitseáil Gairme",
-          "image_url": "/images/resume-writing-career-coaching.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/resume-writing-career-coaching.jpg"
         }
       ]
     },
     {
       "category": "Bainistíocht Maoine & Eastáit Réadaigh",
-      "category_image_url": "/images/Real-Estate-Property-Management.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Real-Estate-Property-Management.jpg",
       "subcategories": [
         {
           "name": "Bainistíocht Cíos Gearrthéarmach & Airbnb",
-          "image_url": "/images/airbnb-short-term-rental-management.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/airbnb-short-term-rental-management.jpg"
         },
         {
           "name": "Seirbhísí Cigireachta Baile",
-          "image_url": "/images/home-inspection-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-inspection-services.jpg"
         },
         {
           "name": "Liostáil & Stáitsiú Maoine",
-          "image_url": "/images/property-listing-staging.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/property-listing-staging.jpg"
         },
         {
           "name": "Bainistíocht Maoine Cíosa",
-          "image_url": "/images/rental-property-management.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rental-property-management.jpg"
         },
         {
           "name": "Scagadh Tionóntaí & Tacaíocht Dlí",
-          "image_url": "/images/tenant-screening-legal-support.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tenant-screening-legal-support.jpg"
         }
       ]
     },
     {
       "category": "Cúram Seanóirí & Cúnamh",
-      "category_image_url": "/images/Senior-Care-Assistance.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Senior-Care-Assistance.jpg",
       "subcategories": [
         {
           "name": "Seirbhísí Compánach",
-          "image_url": "/images/companionship-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/companionship-services.jpg"
         },
         {
           "name": "Cúram Seanóirí Baile",
-          "image_url": "/images/in-home-elderly-care.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/in-home-elderly-care.jpg"
         },
         {
           "name": "Ullmhúchán Béile & Cúnamh Beathaithe",
-          "image_url": "/images/meal-preparation-feeding-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/meal-preparation-feeding-assistance.jpg"
         },
         {
           "name": "Bainistíocht Cógais",
-          "image_url": "/images/medication-management.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/medication-management.jpg"
         },
         {
           "name": "Cúnamh Iompair",
-          "image_url": "/images/transportation-assistance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/transportation-assistance.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Speisialaithe & Éigeandála",
-      "category_image_url": "/images/specialized-emergency-services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/specialized-emergency-services.jpg",
       "subcategories": [
         {
           "name": "Deisiúchán Coire",
-          "image_url": "/images/boiler-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/boiler-repair.jpg"
         },
         {
           "name": "Éigeandálaí Leictreacha",
-          "image_url": "/images/electrical-emergencies.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/electrical-emergencies.jpg"
         },
         {
           "name": "Deisiúchán Sceitheadh Gáis",
-          "image_url": "/images/gas-leak-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/gas-leak-repair.jpg"
         },
         {
           "name": "Stáitsiú Baile",
-          "image_url": "/images/home-staging.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-staging.jpg"
         },
         {
           "name": "Iompar Dramhaíola",
-          "image_url": "/images/junk-hauling.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/junk-hauling.jpg"
         },
         {
           "name": "Bainistíocht Maoine",
-          "image_url": "/images/property-management.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/property-management.jpg"
         },
         {
           "name": "Baint Sneachta",
-          "image_url": "/images/snow-removal.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/snow-removal.jpg"
         },
         {
           "name": "Glantachán Cíos Saoire",
-          "image_url": "/images/vacation-rental-cleaning.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/vacation-rental-cleaning.jpg"
         },
         {
           "name": "Baint Dramhaíola",
-          "image_url": "/images/waste-removal.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/waste-removal.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Inbhuanaitheachta & Glasa",
-      "category_image_url": "/images/Sustainability-Green-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Sustainability-Green-Services.jpg",
       "subcategories": [
         {
           "name": "Seachadadh Táirgí Éicea-chairdiúla",
-          "image_url": "/images/eco-friendly-product-delivery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/eco-friendly-product-delivery.jpg"
         },
         {
           "name": "Iniúchtaí Éifeachtúlachta Fuinnimh",
-          "image_url": "/images/energy-efficiency-audits.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/energy-efficiency-audits.jpg"
         },
         {
           "name": "Suiteáil Painéal Gréine",
-          "image_url": "/images/solar-panel-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/solar-panel-installation.jpg"
         },
         {
           "name": "Seirbhísí Athchúrsála & Athúsáide",
-          "image_url": "/images/upcycling-repurposing-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/upcycling-repurposing-services.jpg"
         },
         {
           "name": "Comhairliúcháin Athchúrsála Dramhaíola",
-          "image_url": "/images/waste-recycling-consultations.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/waste-recycling-consultations.jpg"
         },
         {
           "name": "Comhairliúchán Maireachtála Zero-Waste",
-          "image_url": "/images/zero-waste-living-consultation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/zero-waste-living-consultation.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Teicneolaíochta & TF",
-      "category_image_url": "/images/tech-it-services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/tech-it-services.jpg",
       "subcategories": [
         {
           "name": "Deisiúchán Ríomhaire",
-          "image_url": "/images/computer-repair.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/computer-repair.jpg"
         },
         {
           "name": "Aisghabháil Sonraí",
-          "image_url": "/images/data-recovery.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/data-recovery.jpg"
         },
         {
           "name": "Uathoibriú Baile",
-          "image_url": "/images/home-automation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/home-automation.jpg"
         },
         {
           "name": "Socrúchán Líonra",
-          "image_url": "/images/network-setup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/network-setup.jpg"
         },
         {
           "name": "Socrúchán Ceamara Slándála",
-          "image_url": "/images/security-camera-setup.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/security-camera-setup.jpg"
         },
         {
           "name": "Suiteáil Glas Cliste",
-          "image_url": "/images/smart-lock-installation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/smart-lock-installation.jpg"
         }
       ]
     },
     {
       "category": "Seirbhísí Taistil & Turasóireachta",
-      "category_image_url": "/images/Travel-Tourism-Services.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Travel-Tourism-Services.jpg",
       "subcategories": [
         {
           "name": "Piocadh & Iompar Aerfoirt",
-          "image_url": "/images/airport-pickup-transport.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/airport-pickup-transport.jpg"
         },
         {
           "name": "Treoracha Turas Áitiúla",
-          "image_url": "/images/local-tour-guides.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/local-tour-guides.jpg"
         },
         {
           "name": "Pleanáil Taistil & Cruthú Itinerary",
-          "image_url": "/images/travel-planning-itinerary-creation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/travel-planning-itinerary-creation.jpg"
         },
         {
           "name": "Cothabháil Baile Saoire",
-          "image_url": "/images/vacation-home-maintenance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/vacation-home-maintenance.jpg"
         }
       ]
     },
     {
       "category": "Taistil & Iompar",
-      "category_image_url": "/images/Travel-Transportation.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Travel-Transportation.jpg",
       "subcategories": [
         {
           "name": "Aistrithe Aerfoirt",
@@ -1644,81 +1644,81 @@
         },
         {
           "name": "Cíos Rothar & Scútair",
-          "image_url": "/images/bicycle-scooter-rentals.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/bicycle-scooter-rentals.jpg"
         },
         {
           "name": "Cíos Bád & Yachts",
-          "image_url": "/images/boat-yacht-charter.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/boat-yacht-charter.jpg"
         },
         {
           "name": "Seirbhísí Cíos Carr",
-          "image_url": "/images/car-rental-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/car-rental-services.jpg"
         },
         {
           "name": "Turasanna & Cíosanna Héileacaptair",
-          "image_url": "/images/helicopter-tours-charters.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/helicopter-tours-charters.jpg"
         },
         {
           "name": "Seirbhísí Limisín",
-          "image_url": "/images/limousine-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/limousine-services.jpg"
         },
         {
           "name": "Cíosanna Carr Só",
-          "image_url": "/images/luxury-car-rentals.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/luxury-car-rentals.jpg"
         },
         {
           "name": "Cíosanna Gluaisrothar",
-          "image_url": "/images/motorcycle-rentals.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/motorcycle-rentals.jpg"
         },
         {
           "name": "Seirbhísí Iompair Peataí",
-          "image_url": "/images/pet-transportation-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/pet-transportation-services.jpg"
         },
         {
           "name": "Tiománaí Príobháideach",
-          "image_url": "/images/private-driver-hire.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/private-driver-hire.jpg"
         },
         {
           "name": "Cíosanna Scair-eitleáin",
-          "image_url": "/images/private-jet-charters.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/private-jet-charters.jpg"
         },
         {
           "name": "Cíosanna RV & Camper Van",
-          "image_url": "/images/rv-camper-van-rentals.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/rv-camper-van-rentals.jpg"
         },
         {
           "name": "Treoracha Turas & Eachtraí",
-          "image_url": "/images/tour-guides-excursions.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/tour-guides-excursions.jpg"
         },
         {
           "name": "Árachas Taistil",
-          "image_url": "/images/travel-insurance.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/travel-insurance.jpg"
         },
         {
           "name": "Seirbhísí Pleanála Taistil & Itinerary",
-          "image_url": "/images/travel-planning-itinerary-services.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/travel-planning-itinerary-services.jpg"
         }
       ]
     },
     {
       "category": "Cúnamh Fíorúil & Tacaíocht Obair Cianda",
-      "category_image_url": "/images/Virtual-Assistance-Remote-Work-Support.jpg",
+      "category_image_url": "/image/upload/c_thumb,w_200,g_face/Virtual-Assistance-Remote-Work-Support.jpg",
       "subcategories": [
         {
           "name": "Iontráil Sonraí & Ullmhúchán Doiciméad",
-          "image_url": "/images/data-entry-document-preparation.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/data-entry-document-preparation.jpg"
         },
         {
           "name": "Bainistíocht Siopa E-commerce",
-          "image_url": "/images/ecommerce-store-management.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/ecommerce-store-management.jpg"
         },
         {
           "name": "Tacaíocht Riaracháin Gnó Cianda",
-          "image_url": "/images/remote-business-admin-support.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/remote-business-admin-support.jpg"
         },
         {
           "name": "Cúntóirí Fíorúla",
-          "image_url": "/images/virtual-assistants.jpg"
+          "image_url": "/image/upload/c_thumb,w_200,g_face/virtual-assistants.jpg"
         }
       ]
     }
