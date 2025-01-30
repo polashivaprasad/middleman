@@ -1,0 +1,148 @@
+{
+  "services": [
+    {
+      "category": "Appliance Repair",
+      "value": "Appliance Repair"
+    },
+    {
+      "category": "Art & Creative Services",
+      "value": "Art & Creative Services"
+    },
+    {
+      "category": "Auto & Vehicle Services",
+      "value": "Auto & Vehicle Services"
+    },
+    {
+      "category": "Automotive Services",
+      "value": "Automotive Services"
+    },
+    {
+      "category": "Business Services",
+      "value": "Business Services"
+    },
+    {
+      "category": "Childcare & Family Services",
+      "value": "Childcare & Family Services"
+    },
+    {
+      "category": "Education & Tutoring",
+      "value": "Education & Tutoring"
+    },
+    {
+      "category": "Event & Entertainment",
+      "value": "Event & Entertainment"
+    },
+    {
+      "category": "Fitness & Training",
+      "value": "Fitness & Training"
+    },
+    {
+      "category": "Food & Grocery Delivery",
+      "value": "Food & Grocery Delivery"
+    },
+    {
+      "category": "Government & Administrative Services",
+      "value": "Government & Administrative Services"
+    },
+    {
+      "category": "Handyman & Repairs",
+      "value": "Handyman & Repairs"
+    },
+    {
+      "category": "Healthcare & Wellness",
+      "value": "Healthcare & Wellness"
+    },
+    {
+      "category": "Home Cleaning & Maintenance",
+      "value": "Home Cleaning & Maintenance"
+    },
+    {
+      "category": "Home Improvement & Design",
+      "value": "Home Improvement & Design"
+    },
+    {
+      "category": "Home Security",
+      "value": "Home Security"
+    },
+    {
+      "category": "HVAC & Maintenance",
+      "value": "HVAC & Maintenance"
+    },
+    {
+      "category": "Legal & Financial Services",
+      "value": "Legal & Financial Services"
+    },
+    {
+      "category": "Logistics & Moving",
+      "value": "Logistics & Moving"
+    },
+    {
+      "category": "Moving & Relocation",
+      "value": "Moving & Relocation"
+    },
+    {
+      "category": "Outdoor & Gardening",
+      "value": "Outdoor & Gardening"
+    },
+    {
+      "category": "Painting & Renovation",
+      "value": "Painting & Renovation"
+    },
+    {
+      "category": "Pest Control",
+      "value": "Pest Control"
+    },
+    {
+      "category": "Personal & Lifestyle",
+      "value": "Personal & Lifestyle"
+    },
+    {
+      "category": "Personal Care & Beauty",
+      "value": "Personal Care & Beauty"
+    },
+    {
+      "category": "Pet Care",
+      "value": "Pet Care"
+    },
+    {
+      "category": "Plumbing & Electrical",
+      "value": "Plumbing & Electrical"
+    },
+    {
+      "category": "Professional & Business Services",
+      "value": "Professional & Business Services"
+    },
+    {
+      "category": "Real Estate & Property Management",
+      "value": "Real Estate & Property Management"
+    },
+    {
+      "category": "Senior Care & Assistance",
+      "value": "Senior Care & Assistance"
+    },
+    {
+      "category": "Specialized & Emergency Services",
+      "value": "Specialized & Emergency Services"
+    },
+    {
+      "category": "Sustainability & Green Services",
+      "value": "Sustainability & Green Services"
+    },
+    {
+      "category": "Tech & IT Services",
+      "value": "Tech & IT Services"
+    },
+    {
+      "category": "Travel & Tourism Services",
+      "value": "Travel & Tourism Services"
+    },
+    {
+      "category": "Travel & Transportation",
+      "value": "Travel & Transportation"
+    },
+    {
+      "category": "Virtual Assistance & Remote Work Support",
+      "value": "Virtual Assistance & Remote Work Support"
+    }
+  ]
+}
